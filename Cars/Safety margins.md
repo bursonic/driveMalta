@@ -96,7 +96,7 @@ In very hot weather the road surface can get soft. Which TWO of the following 
 Your indicators may be difficult to see in bright sunlight. What should you do? 
 
 1. Turn as quickly as you can
-2. Give an arm signal as well as using your indicator 
+2. **Give an arm signal as well as using your indicator**
 3. Touch the brake several times to show the stop lamp(s) 
 4. Use the indicator earlier 
 
@@ -129,7 +129,7 @@ left. Why is this? 
 1. To be positioned safely if the vehicle skids
 2. To let faster traffic from behind overtake
 3. To overcome the effect of the road's slope
-4. To improve your view of the road
+4. **To improve your view of the road**
 
 
 ###4280  - CARS4.29!!!
