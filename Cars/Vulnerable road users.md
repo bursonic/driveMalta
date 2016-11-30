@@ -1,382 +1,423 @@
-###4310  - CARS6.1
+###4310  - CARS6.1
 
-You are driving on a quiet country road. What should you expect to see coming towards you on YOUR side of the road? 
+You are driving on a quiet country road. What should you expect to see coming towards you on YOUR side of the road? 
 
-Horse riders 
-Bicycles 
-Pedestrians
-Motorcycles 
+1. Horse riders 
+2. Bicycles 
+3. **Pedestrians** 
+4. Motorcycles 
 
-###4311  - CARS6.2
 
-Which sign means that there may be people walking along the road? 
+###4311  - CARS6.2
 
+Which sign means that there may be people walking along the road? 
 
+1. 
+2. 
+3. 
+4. 
 
 
+###4312  - CARS6.4
 
+You are turning left into a side road and find pedestrians that are crossing. You must: 
 
-###4312  - CARS6.4
+1. Switch on your hazard lights 
+2. Sound your horn
+3. Wave them on
+4. **Wait for them to cross**
 
-You are turning left into a side road and find pedestrians that are crossing. You must: 
 
-Switch on your hazard lights 
-Sound your horn
-Wave them on
-Wait for them to cross
+###4313  - CARS6.5
 
-###4313  - CARS6.5
+You are turning left at a junction. Pedestrians have suddenly started to cross the road. You should: 
 
-You are turning left at a junction. Pedestrians have suddenly started to cross the road. You should: 
+1. Blow your horn and proceed
+2. Stop and wave at them to cross 
+3. Go on giving them plenty of room 
+4. **Give way to them** 
 
-Blow your horn and proceed
-Stop and wave at them to cross 
-Go on giving them plenty of room 
-Give way to them
 
-###4314  - CARS6.10
+###4314  - CARS6.10
 
-You want to emerge from a junction but your view is partly restricted by parked vehicles. What should you do? 
+You want to emerge from a junction but your view is partly restricted by parked vehicles. What should you do? 
 
-Stop get out and look along the main road to check
-Sound your horn and pull out if there is no reply
-Move out quickly but be prepared to stop
-Stop then move slowly forward until you have a clear view
+1. Stop get out and look along the main road to check
+2. Sound your horn and pull out if there is no reply
+3. Move out quickly but be prepared to stop
+4. **Stop then move slowly forward until you have a clear view**
 
-###4315  - CARS6.11
 
-You are at the front of a queue of traffic waiting to turn right into a side road. Why is it important to check your right mirror just before turning? 
+###4315  - CARS6.11
 
-To check for emerging traffic
-To check for overtaking vehicles
-To make sure the side road is clear
-To look for pedestrians about to cross 
+You are at the front of a queue of traffic waiting to turn right into a side road. Why is it important to check your right mirror just before turning? 
 
-###4316  - CARS6.13
+1. To check for emerging traffic
+2. **To check for overtaking vehicles**
+3. To make sure the side road is clear
+4. To look for pedestrians about to cross 
 
-What should a driver do at a pelican crossing when the red and amber lights are on? 
 
-Move off 
-Always wait for the green light before proceeding 
-Give way to any pedestrians on the crossing
-Signal the pedestrian to cross 
+###4316  - CARS6.13
 
-###4317  - CARS6.14
+What should a driver do at a pelican crossing when the red and amber lights are on? 
 
-You have stopped at a pelican crossing. A disabled person is crossing slowly in front of you.The lights have now changed to green. You should: 
+1. Move off 
+2. Always wait for the green light before proceeding 
+3. **Give way to any pedestrians on the crossing**
+4. Signal the pedestrian to cross 
 
-Drive in front of the person 
-Edge forward slowly
-Allow the person to cross
-Sound your horn 
-Be patient
-Drive behind the person 
 
-###4318  - CARS6.15
+###4317  - CARS6.14
 
-As you approach a pelican crossing the lights change to green but elderly people are halfway across. You should: 
+You have stopped at a pelican crossing. A disabled person is crossing slowly in front of you.The lights have now changed to green. You should: 
 
-Flash your lights in case they have not heard you 
-Rev your engine to make them hurry
-Wave them to cross as quickly as they can 
-Wait because they will take longer to cross
+1. Drive in front of the person 
+2. Edge forward slowly
+3. **Allow the person to cross**
+4. Sound your horn 
+5. **Be patient** 
+6. Drive behind the person 
 
-###4319  - CARS6.16
 
-Look at this picture. What is the danger you should be most aware of? 
+###4318  - CARS6.15
 
-The car on the left may move off
-The driver of the ice cream van may get out 
-The ice cream van may move off 
-The child may run out into the road
+As you approach a pelican crossing the lights change to green but elderly people are halfway across. You should: 
 
-###4320  - CARS6.17
+1. Flash your lights in case they have not heard you 
+2. Rev your engine to make them hurry
+3. Wave them to cross as quickly as they can 
+4. **Wait because they will take longer to cross**
 
-You are driving past parked cars. You notice a wheel of a bicycle sticking out between them. What should you do? 
 
-Brake sharply and flash your headlights 
-Slow down and wave the cyclist across 
-Accelerate past quickly and sound your horn 
-Slow down and be prepared to stop for a cyclist
+###4319  - CARS6.16
 
-###4321  - CARS6.18
+Look at this picture. What is the danger you should be most aware of? 
 
-You are driving past a lane of parked cars and you notice a ball bouncing out into the road ahead. What should you do? 
+1. The car on the left may move off
+2. The driver of the ice cream van may get out 
+3. The ice cream van may move off 
+4. **The child may run out into the road**
 
-Stop and wave the children across to fetch their ball 
-Continue driving at the same speed and flash your headlights 
-Slow down and be prepared to stop for children
-Continue driving at the same speed and sound your horn 
 
-###4322  - CARS6.19
+###4320  - CARS6.17
 
-If you are following a car driven by an elderly driver you should: 
+You are driving past parked cars. You notice a wheel of a bicycle sticking out between them. What should you do? 
 
-Stay close behind and drive carefully
-Flash your lights and overtake
-Be aware that the driver's reactions may not be as fast as yours
-Expect the driver to drive badly 
+1. Brake sharply and flash your headlights 
+2. Slow down and wave the cyclist across 
+3. Accelerate past quickly and sound your horn 
+4. **Slow down and be prepared to stop for a cyclist**
 
-###4323  - CARS6.20
 
-Which sign tells you that pedestrians may be walking in the road as there is no pavement? 
+###4321  - CARS6.18
 
+You are driving past a lane of parked cars and you notice a ball bouncing out into the road ahead. What should you do? 
 
+1. Stop and wave the children across to fetch their ball 
+2. Continue driving at the same speed and flash your headlights 
+3. **Slow down and be prepared to stop for children** 
+4. Continue driving at the same speed and sound your horn 
 
 
+###4322  - CARS6.19
 
+If you are following a car driven by an elderly driver you should: 
 
-###4324  - CARS6.21
+1. Stay close behind and drive carefully
+2. Flash your lights and overtake
+3. **Be aware that the driver's reactions may not be as fast as yours**
+4. Expect the driver to drive badly 
 
-Which sign means there maybe elderly pedestrians likely to cross the road? 
 
+###4323  - CARS6.20
 
+Which sign tells you that pedestrians may be walking in the road as there is no pavement? 
 
+1. 
+2. 
+3. 
+4. 
 
 
+###4324  - CARS6.21
 
-###4325  - CARS6.22
+Which sign means there maybe elderly pedestrians likely to cross the road? 
 
-If you see a pedestrian carrying a white stick, this shows that the person is: 
+1. 
+2. 
+3. 
+4. 
 
-Elderly 
-Deaf 
-Disabled 
-Blind
 
-###4326  - CARS6.23
+###4325  - CARS6.22
 
-You are driving towards a pedestrian (zebra) crossing. Waiting to cross is a person in a wheelchair. You should: 
+If you see a pedestrian carrying a white stick, this shows that the person is: 
 
-Wave to the person to wait 
-Wave to the person to cross 
-Continue on your way 
-Be prepared to stop
+1. Elderly 
+2. Deaf 
+3. Disabled 
+4. **Blind** 
 
-###4327  - CARS6.24
 
-What action should you take when elderly people are crossing the road? 
+###4326  - CARS6.23
 
-Tap the horn in case they are hard of hearing 
-Be patient and allow them to cross in their own time
-Rev the engine to let them know that you are waiting 
-Wave them across so they know that you have seen them 
+You are driving towards a pedestrian (zebra) crossing. Waiting to cross is a person in a wheelchair. You should: 
 
-###4328  - CARS6.27
+1. Wave to the person to wait 
+2. Wave to the person to cross 
+3. Continue on your way 
+4. **Be prepared to stop**
 
-You should NEVER attempt to overtake a cyclist: 
 
-Just before you turn left
-On a dual carriageway 
-On a one-way street 
-Just before you turn right 
+###4327  - CARS6.24
 
-###4329  - CARS6.28
+What action should you take when elderly people are crossing the road? 
 
-If you are driving behind a cyclist and you wish to turn left just ahead. You should: 
+1. Tap the horn in case they are hard of hearing 
+2. **Be patient and allow them to cross in their own time**
+3. Rev the engine to let them know that you are waiting 
+4. Wave them across so they know that you have seen them 
 
-Go around the cyclist on the junction 
-Pull alongside the cyclist and stay level until after the junction 
-Hold back until the cyclist has passed the junction
-Overtake the cyclist before the junction 
 
-###4330  - CARS6.29
+###4328  - CARS6.27
 
-You are coming up to a roundabout and a cyclist is signaling to turn right. What should you do: 
+You should NEVER attempt to overtake a cyclist: 
 
-Signal the cyclist to move across 
-Give a horn warning 
-Overtake on the right 
-Give the cyclist plenty of room
+1. **Just before you turn left** 
+2. On a dual carriageway 
+3. On a one-way street 
+4. Just before you turn right 
 
-###4331  - CARS6.30
 
-You are driving behind three cyclists. They approach a roundabout in the left-hand lane. In which direction should you expect the cyclists to go? 
+###4329  - CARS6.28
 
-Straight ahead 
-Right 
-Any direction 
-Left 
+If you are driving behind a cyclist and you wish to turn left just ahead. You should: 
 
-###4332  - CARS6.31
+1. Go around the cyclist on the junction 
+2. Pull alongside the cyclist and stay level until after the junction 
+3. **Hold back until the cyclist has passed the junction** 
+4. Overtake the cyclist before the junction 
 
-You are approaching a roundabout and see a cyclist signal right. Why is the cyclist keeping to the left? 
 
-The cyclist thinks The highway Code does not apply to bicycles
-The cyclist is going to turn left instead
-It is quicker route for cyclist 
-The cyclist is slower and more vulnerable
+###4330  - CARS6.29
 
-###4333  - CARS6.32
+You are coming up to a roundabout and a cyclist is signaling to turn right. What should you do: 
 
-When you are overtaking a cyclist in the road you should leave as much room as you would give to a car. What is the main reason for this? 
+1. Signal the cyclist to move across 
+2. Give a horn warning 
+3. Overtake on the right 
+4. **Give the cyclist plenty of room** 
 
-The cyclist might have to make a right turn 
-The cyclist might get off the bike
-The cyclist might change lanes 
-The cyclist might swerve
 
-###4334  - CARS6.38
+###4331  - CARS6.30
 
-Where should you take particular care to look out for motorcyclists and cyclists? 
+You are driving behind three cyclists. They approach a roundabout in the left-hand lane. In which direction should you expect the cyclists to go? 
 
-On one-way streets 
-At junctions
-At zebra crossings
-On dual carriageways 
+1. Straight ahead 
+2. Right 
+3. **Any direction** 
+4. Left 
 
-###4335  - CARS6.39
 
-In daylight an approaching motorcyclist is using a dipped headlight. Why? 
+###4332  - CARS6.31
 
-So that the rider can be seen more easily 
-The rider is inviting you to proceed
-To improve the rider's vision
-To stop the battery overcharging 
+You are approaching a roundabout and see a cyclist signal right. Why is the cyclist keeping to the left? 
 
-###4336  - CARS6.42
+1. The cyclist thinks The highway Code does not apply to bicycles
+2. The cyclist is going to turn left instead
+3. It is quicker route for cyclist 
+4. **The cyclist is slower and more vulnerable** 
 
-You are driving behind a moped or a small motorcycle. You want to turn left just ahead. You should: 
 
-Sound your horn as a warning and pull in front of the moped 
-Pull alongside the moped and stay level until just before the junction
-Overtake the moped before the junction 
-Stay behind until the moped has passed the junction
+###4333  - CARS6.32
 
-###4337  - CARS6.44
+When you are overtaking a cyclist in the road you should leave as much room as you would give to a car. What is the main reason for this? 
 
-At road junctions which THREE of the following are most vulnerable? 
+1. The cyclist might have to make a right turn 
+2. The cyclist might get off the bike
+3. The cyclist might change lanes 
+4. **The cyclist might swerve** 
 
-Motorcyclists
-Cyclists
-Lorry drivers 
-Car drivers 
-Pedestrians
 
-###4338  - CARS6.45
+###4334  - CARS6.38
 
-When emerging from a side road into a queue of traffic which road users can be difficult to see? 
+Where should you take particular care to look out for motorcyclists and cyclists? 
 
-Motorcycles
-Cars 
-Milk floats 
-Tractors 
+1. On one-way streets 
+2. **At junctions**
+3. At zebra crossings
+4. On dual carriageways 
 
-###4339  - CARS6.46
 
-You want to turn right from a main road into a side road. Just before you turn you should: 
+###4335  - CARS6.39
 
-Stop and set the handbrake 
-Select first gear 
-Check for traffic overtaking on your right
-Cancel your right-turn signal 
+In daylight an approaching motorcyclist is using a dipped headlight. Why? 
 
-###4340  - CARS6.48
+1. **So that the rider can be seen more easily**
+2. The rider is inviting you to proceed
+3. To improve the rider's vision
+4. To stop the battery overcharging 
 
-You are driving and ahead of you there is a vehicle with a flashing amber beacon.This means it is: 
 
-Slow moving
-A school crossing patrol 
-A doctor's car 
-Broken down 
+###4336  - CARS6.42
 
-###4341  - CARS6.50
+You are driving behind a moped or a small motorcycle. You want to turn left just ahead. You should: 
 
-An injured motorcyclist is lying unconscious in the road. You should: 
+1. Sound your horn as a warning and pull in front of the moped 
+2. Pull alongside the moped and stay level until just before the junction
+3. Overtake the moped before the junction 
+4. **Stay behind until the moped has passed the junction** 
 
-Remove the leather jacket 
-Move the person off the road 
-Remove the safety helmet 
-Seek medical assistance
 
-###4342  - CARS6.51
+###4337  - CARS6.44
 
-You are driving in town. There is a bus at the bus stop on the other side of the road. Why should you be careful? 
+At road junctions which THREE of the following are most vulnerable? 
 
-The bus may remain stationary 
-The bus may move off suddenly 
-The bus may have broken down 
-Pedestrians may come from behind the bus
+1. **Motorcyclists** 
+2. **Cyclists** 
+3. Lorry drivers 
+4. Car drivers 
+5. **Pedestrians** 
 
-###4343  - CARS6.52
 
-How should you overtake horse riders? 
+###4338  - CARS6.45
 
-Use your horn just once to warn them 
-Speed is not important but allow plenty of room 
-Drive along their side and overtake as soon as possible 
-Drive slowly and leave plenty of room
+When emerging from a side road into a queue of traffic which road users can be difficult to see? 
 
-###4344  - CARS6.53!!!
+1. **Motorcycles** 
+2. Cars 
+3. Milk floats 
+4. Tractors 
 
-You notice horse riders ahead of you. What should you do FIRST? 
 
-Signal right 
-Be prepared to slow down
-Accelerate around them 
-Pull out to the middle of the road 
+###4339  - CARS6.46
 
-###4345  - CARS6.54
+You want to turn right from a main road into a side road. Just before you turn you should: 
 
-You are driving on a narrow country road. Where would you find it most difficult to see horses and riders ahead of you? 
+1. Stop and set the handbrake 
+2. Select first gear 
+3. **Check for traffic overtaking on your right** 
+4. Cancel your right-turn signal 
 
-On left-hand bends
-On right-hand bends 
-When uphill 
-When downhill 
 
-###4346  - CARS6.55
+###4340  - CARS6.48
 
-A horse rider is in the left-hand lane approaching a roundabout. The driver behind should expect the rider to: 
+You are driving and ahead of you there is a vehicle with a flashing amber beacon.This means it is: 
 
-Go ahead 
-Turn left 
-Turn right 
-Go in any direction 
+1. **Slow moving** 
+2. A school crossing patrol 
+3. A doctor's car 
+4. Broken down 
 
-###4347  - CARS6.56
 
-You are approaching a roundabout. There are horses just ahead of you. You should: 
+###4341  - CARS6.50
 
-Sound your horn as a warning
-Give them plenty of room
-Accelerate past as quickly as possible 
-Treat them like any other vehicle 
-Be prepared to stop
+An injured motorcyclist is lying unconscious in the road. You should: 
 
-###4348  - CARS6.57
+1. Remove the leather jacket 
+2. Move the person off the road 
+3. Remove the safety helmet 
+4. **Seek medical assistance**
 
-You see a group of horse riders as you approach a roundabout. They are signalling to go right but keeping well to the left. You should: 
 
-Cut in front of them
-Keep close of them
-Proceed as normal
-Stay well back
+###4342  - CARS6.51
 
-###4349  - CARS6.58
+You are driving in town. There is a bus at the bus stop on the other side of the road. Why should you be careful? 
+
+1. The bus may remain stationary 
+2. The bus may move off suddenly 
+3. The bus may have broken down 
+4. **Pedestrians may come from behind the bus** 
+
+
+###4343  - CARS6.52
+
+How should you overtake horse riders? 
+
+1. Use your horn just once to warn them 
+2. Speed is not important but allow plenty of room 
+3. Drive along their side and overtake as soon as possible 
+4. **Drive slowly and leave plenty of room** 
+
+
+###4344  - CARS6.53!!!
+
+You notice horse riders ahead of you. What should you do FIRST? 
+
+1. Signal right 
+2. **Be prepared to slow down** 
+3. Accelerate around them 
+4. Pull out to the middle of the road 
+
+
+###4345  - CARS6.54
+
+You are driving on a narrow country road. Where would you find it most difficult to see horses and riders ahead of you? 
+
+1. **On left-hand bends** 
+2. On right-hand bends 
+3. When uphill 
+4. When downhill 
+
+
+###4346  - CARS6.55
+
+A horse rider is in the left-hand lane approaching a roundabout. The driver behind should expect the rider to: 
+
+1. Go ahead 
+2. Turn left 
+3. Turn right 
+4. **Go in any direction **
+
+
+###4347  - CARS6.56
+
+You are approaching a roundabout. There are horses just ahead of you. You should: 
+
+1. Sound your horn as a warning
+2. **Give them plenty of room**
+3. Accelerate past as quickly as possible 
+4. Treat them like any other vehicle 
+5. **Be prepared to stop**
+
+
+###4348  - CARS6.57
+
+You see a group of horse riders as you approach a roundabout. They are signalling to go right but keeping well to the left. You should: 
+
+1. Cut in front of them
+2. Keep close of them
+3. Proceed as normal
+4. **Stay well back**
+
+
+###4349  - CARS6.58
 
 What is the MOST common cause
- of road accidents? 
+ of road accidents? 
 
-Mechanical failure 
-Driver error
-Road conditions 
-Weather conditions 
+1. Mechanical failure 
+2. **Driver error**
+3. Road conditions 
+4. Weather conditions 
 
-###4350  - CARS6.60
 
-Which age group is most likely to be involved in traffic accidents? 
+###4350  - CARS6.60
 
-46 to 55-year-old 
-55-year-olds and over 
-36 to 45-year-old 
-18 to 25-year-old
+Which age group is most likely to be involved in traffic accidents? 
 
-###4351  - CARS6.1
+1. 46 to 55-year-old 
+2. 55-year-olds and over 
+3. 36 to 45-year-old 
+4. **18 to 25-year-old** 
 
-You are following a learner driver who stalls at a junction. What should you do? 
 
-Be patient as you expect them to make mistakes
-Immediately steer around them and drive on
-Start to rev your engine if they take too long to restart 
-Drive up close behind and flash your headlights 
+###4351  - CARS6.1
+
+You are following a learner driver who stalls at a junction. What should you do? 
+
+1. **Be patient as you expect them to make mistakes** 
+2. Immediately steer around them and drive on
+3. Start to rev your engine if they take too long to restart 
+4. Drive up close behind and flash your headlights
