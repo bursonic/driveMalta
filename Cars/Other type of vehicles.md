@@ -1,3 +1,30 @@
+###4626 - CARS7.1
+
+The road is wet and slippery. Why might a motorcyclist steer round drain covers on a bend?
+
+1. To avoid splashing pedestrians on the pavements
+2. To help judge the bend using the drain covers as marker points
+3. To avoid puncturing the tyres on the edge of the drain covers
+4. **To prevent the motorcycle sliding on the metal drain covers**
+
+###4627 - CARS7.2
+
+It is very windy. You are behind a motorcyclist who is overtaking a high vehicle. What should you do?
+
+1. Keep close to the motorcyclist
+2. **Keep well back**
+3. Stay level with the motorcycle
+4. Overtake the motorcyclist immediately
+
+###4628 - CARS7.3
+
+It is very blustery and windy. You are about to overtake a motorcyclist. You should:
+
+1. Keep close as you pass
+2. **Allow extra room**
+3. Sound your horn
+4. Overtake slowly
+
 ###4352  - CARS7.4
 
 You are waiting to emerge left from a minor road. A large vehicle isapproachingfromtheright.You have time to turn, but you should wait. Why?

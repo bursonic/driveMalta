@@ -421,3 +421,176 @@ You are following a learner driver who stalls at a junction. What should you do?
 2. Immediately steer around them and drive on
 3. Start to rev your engine if they take too long to restart 
 4. Drive up close behind and flash your headlights
+
+###4620 - CARS6.47
+
+Which of the following are hazards that motorcyclists present in queues of traffic?
+
+1. **Passing very close to your car**
+2. Riding with their headlamp on dipped beam
+3. Riding in single file
+4. **Filtering between the lanes**
+5. **Cutting in just in front of you**
+
+###4621 - CARS6.49
+
+You are driving in slow-moving queues of traffic. Just before changing lane you should:
+
+1. Change down to first gear
+2. Give a 'slowing down' arm signal
+3. Sound the horn
+4. **Look for motorcyclists filtering through the traffic**
+
+###4622 - CARS6.59
+
+You have a collision while your car is moving. What is the first important thing you must do?
+
+1. Call your insurance company
+2. Call the emergency services
+3. **Stop at the scene of the accident**
+4. Stop only if there are injured people
+
+###4623 - CARS6.62
+
+If a friend wants to teach you how to drive a car they must:
+
+1. **Be over 25 and have held a full licence for at least 5 years**
+2. Be over 21 and have had a full license for at least three years.
+3. Be over 18 and have fully comprehensive insurance
+4. Be over 18 and hold an advanced driver's certificate
+
+###4624 - CARS6.63
+
+Your car hits a pedestrian at 60 kph. The pedestrian will:
+
+1. Probably survive
+2. Certainly survive
+3. **Probably be killed**
+4. Certainly be killed
+
+###4625 - CARS6.64
+
+You are dazzled at night by the lights of the vehicle behind you. You should:
+
+1. **Set your mirror to anti-dazzle**
+2. Switch your rear lights on and off
+3. Brake sharply to a stop
+4. Set your mirror to dazzle the other driver
+
+###4613 - CARS6.26
+
+You are following a motorcyclist on an uneven road. You should:
+
+1. Allow the same room as normal because motorcyclists are not affected by road surfaces
+2. Overtake immediately
+3. **Allow extra room in case they swerve to avoid pot-holes**
+4. Allow less room to ensure that you can be seen in their mirrors
+
+###4614 - CARS6.33
+
+Which TWO should you allow extra room when overtaking?
+
+1. Road-sweeping vehicles
+2. **Motorcycles**
+3. Tractors
+4. **Bicycles**
+
+###4615 - CARS6.34
+
+Why should you allow extra room when overtaking a motorcyclist on a windy day?
+
+1. The rider may be traveling faster than normal
+2. **The rider may be blown across in front of you**
+3. The rider may stop suddenly
+4. The rider may turn off suddenly to get out of the wind
+
+###4616 - CARS6.35
+
+Which type of vehicle is MOST affected by strong winds?
+
+1. Bowser
+2. **Motorcycle**
+3. Car
+4. Tractor
+
+###4617 - CARS6.36
+
+Why should you particularly look for motorcyclists and cyclists at any junction?
+
+1. They might not see you turn
+2. They may slow down to let you turn
+3. **They are harder to see**
+4. They may want to turn into the side road
+
+###4618 - CARS6.37
+
+You are waiting to come out of a side road. Why should you watch carefully for motorcycles?
+
+1. Motorcycles have right of way
+2. Police patrols often use motorcycles
+3. **Motorcycles are small and hard to see**
+4. Motorcycles are usually faster than cars
+
+###4619 - CARS6.43
+
+Motorcyclists often look round over their right shoulder just before turning right. This is because:
+
+1. Looking around helps them balance as they turn
+2. Motorcycles do not have mirrors
+3. They need to listen for following traffic
+4. **They need to check for traffic in their blind area**
+
+###4607 - CARS6.6
+
+You want to reverse into a side road. You are not sure that the area behind your car is clear. What should you do?
+
+1. Carry on assuming it is clear
+2. **Get out and check**
+3. Check the mirrors only
+4. Look through the rear window only
+
+###4608 - CARS6.7
+
+You are about to reverse into a side road and a pedestrian wishes to cross behind you. You should:
+
+1. Reverse before the pedestrian starts to cross
+2. **Give way to the pedestrian**
+3. Wave to the pedestrian to cross
+4. Wave to the pedestrian to stop
+
+###4609 - CARS6.8
+
+Who is especially in danger of not being seen as you reverse your car?
+
+1. Cyclists
+2. Car drivers
+3. Motorcyclists
+4. **Children**
+
+###4610 - CARS6.9
+
+You intend to turn right into a side road. Just before turning you should check for motorcyclists who may be:
+
+1. Emerging from the side road
+2. Following you closely
+3. Overtaking on your left
+4. **Overtaking on your right**
+
+###4611 - CARS6.12
+
+In which three places would parking cause an obstruction to other road users?
+
+1. Where the kerb is raised
+2. **At or near a bus stop**
+3. **Where the kerb has been lowered for wheelchairs**
+4. **Near the brow of a hill**
+5. In a lay-by
+
+###4612 - CARS6.25
+
+You are following a motorcyclist on an uneven and bumpy road. You should:
+
+1. Stop and wave them across the road
+2. Speed up to get past them quickly
+3. Expect them to wait for you to pass
+4. **Be careful they may misjudge your speed**

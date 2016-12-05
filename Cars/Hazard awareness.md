@@ -275,3 +275,14 @@ What is the maximum permissible alcohol level above which a driver must not driv
 2. **Breath alcohol level of 35 mg/100ml or blood alcohol level of 80mg/100ml.**
 3. Breath alcohol level of 45 mg/100ml or blood alcohol level of 90mm/100ml. 
 4. Breath alcohol level of 25 mg/100ml or blood alcohol level of 70mg/100ml. 
+
+###4606 - CARS5.25
+
+A correct seating position will enable you to:
+
+1. Rest your hand on the gear lever
+2. **Have a suitable grip on the steering wheel**
+3. Talk to all your passengers
+4. **Have good visibility through the windows**
+5. **Comfortably reach the pedals**
+6. Rest your head against the head restraint
