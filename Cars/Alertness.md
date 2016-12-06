@@ -16,6 +16,64 @@ As a driver what do you understandby the term 'Blind Spot'?
 3. An area covered by your right hand mirror
 4. **An area not covered by your mirrors**
 
+###4551 - CARS1.4
+
+Objects or articles hanging from your interior mirror may:
+
+1. **Distract your attention**
+2. Help your concentration
+3. **Restrict your view**
+4. Improve your driving
+
+###4552 - CARS1.5
+
+When driving you are most likely to lose concentration if you:
+
+1. **Listen to very loud music**
+2. **Use a mobile phone**
+3. Look at the door mirrors
+4. Switch on the heated rear window
+
+###4553 - CARS1.6
+
+When driving which four are most likely to cause you to lose concentration
+
+1. **Looking at a map**
+2. **Tuning your car radio**
+3. **Talking into a microphone**
+4. **Using a mobile phone**
+5. Using the demisters
+6. Checking the mirrors
+
+###4554 - CARS1.8
+
+You are driving on a wet road and you have to stop your vehicle in an emergency. You should:
+
+1. Give an arm signal
+2. **Keep both hands on the wheel**
+3. Select reverse gear
+4. Apply the handbrake and footbrake together
+
+###4555 - CARS1.11
+
+Which of the following may cause distraction on a long journey?
+
+1. **Putting in a cassette tape/ CD**
+2. **Using a mobile phone**
+3. **Arguing with a passenger**
+4. **Loud music**
+5. Pulling up to tune the radio
+6. Stopping regularly to rest
+
+###4556 - CARS1.20
+
+You want to use a mobile phone whilst driving the car. You should only use the phone:
+
+1. **After stopping in a suitable place**
+2. If you feel your driving will be unaffected
+3. If you are driving on a motorway
+4. When driving on a quiet minor roads
+
 ###4213 - CARS1.7
 
 What does the abbreviation MSM mean?
@@ -96,6 +154,15 @@ To answer your mobile phone when driving you should:
 2. **Stop in a proper and convenient place**
 3. Keep the call time to a minimum
 4. Reduce your speed wherever you are
+
+###4557 - CARS1.22
+
+What is the safest way to use a mobile phone in a car?
+
+1. Direct your call through the operator
+2. **Find a suitable place to stop**
+3. Drive slowly on a quiet road
+4. Use hands-free equipment
 
 ###4222 - CARS1.23
 

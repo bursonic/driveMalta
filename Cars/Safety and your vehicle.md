@@ -7,13 +7,77 @@ Before making a U - turn in the road you should always:
 3. **Look over your shoulder for final confirmation**
 4. Give another signal as well as using your indicators
 
+###4564 - CARS3.2
+
+Which FOUR of these MUST be in good working order for your car to be safe and roadworthy?
+
+1. Tempreture gauge
+2. **Indicators**
+3. **Brakes**
+4. **Exhaust system**
+5. Oil warning light
+6. **Lights**
+
+###4565 - CARS3.3
+
+New petrol-engined cars have to be fitted with catalytic converters. The reason for this is to:
+
+1. Allow the exhaust system to be recycled
+2. Prolong the life of the exhaust system
+3. Control exhaust noise levels
+4. **Reduce harmful exhaust emissions**
+
+###4566 - CARS3.5
+
+What can cause heavy or difficult steering?
+
+1. Over-inflated tyres
+2. Badly worn brakes
+3. Driving on mud
+4. **Under-inflated tyres**
+
+###4567 - CARS3.6
+
+Your car is fitted with power assisted steering. This will make the steering seem:
+
+1. **Lighter**
+2. Noisier
+3. Quieter
+4. Heavier
+
+###4568 - CARS3.10
+
+A police officer orders you to stop and finds you have a faulty tyre. Who is responsible for the tyre?
+
+1. Whoever issued the VRT certificate
+2. Whoever services the car
+3. **You the driver**
+4. The previous owner
+
+###4569 - CARS3.11
+
+The legal minimum depth of tread for car tyres over three quarters of its breadth is:
+
+1. 4mm
+2. **1.6mm**
+3. 2.5mm
+4. 1mm
+
+###4570 - CARS3.12
+
+Excessive or uneven wear in one or more tyres can be caused by faults in the:
+
+1. Exhaust system
+2. **Suspension**
+3. **Braking system**
+3. Gearbox
 
 ###4251  - CARS3.4
 
 Which TWO are adversely affected if the tyres are under-inflated? 
 
-1. **Steering **
-2. **Braking **
+1. **Steering**
+2. **Braking**
 3. Parking 
 4. Changing gear 
 
@@ -26,7 +90,7 @@ this be done? 
 1. When tyres are hot
 2. After driving at high speed 
 3. After any lengthy journey 
-4. **When tyres are cold **
+4. **When tyres are cold**
 
 
 ###4253  - CARS3.8
@@ -48,6 +112,42 @@ Driving with under-inflated (low) tyres can affect: 
 3. **Fuel consumption**
 4. Engine temperatures
 
+###4571 - CARS3.13
+
+There is vibration on your steering wheel as you drive at certain speeds. You should check that the:
+
+1. Engine oil level is correct
+2. **Wheels are secure**
+3. Exhaust is not loose
+4. Doors are closed
+5. **Wheels are balanced**
+
+###4572 - CARS3.14
+
+Your vehicle pulls to one side when braking heavily. You should:
+
+1. Use your handbrake at the same time
+2. **Have the fault checked by a competent mechanic as soon as possible**
+3. Pump the pedal when braking and steer in opposite direction
+4. Change the tyres around
+
+###4573 - CARS3.15
+
+The main cause of brake pedal fade is:
+
+1. **The brakes overheating**
+2. The brakes out of adjustment
+3. Oil in the brakes
+4. Air in brake fluid
+
+###4574 - CARS3.16
+
+Your anti-lock brakes warning light stays on. You should:
+
+1. Check that the handbrake is released
+2. Check the footbrake free play
+3. Check the brake fluid
+4. **Have the brakes checked immediately**
 
 ###4255  - CARS3.18
 
@@ -58,6 +158,32 @@ When MUST you use dipped lights during the day? 
 3. **In poor visibility**
 4. All the time
 
+###4575 - CARS3.19
+
+When may you use hazard lights? 
+
+1. When you are being towed
+2. To park on double yellows lines
+3. To park alongside another car
+4. **When you have broken down in traffic**
+
+###4576 - CARS3.20
+
+Hazard lights should be used when vehicles are:
+
+1. **Broken down and causing an obstruction**
+2. Reversing into a side road
+3. Being towed along a road
+4. Faulty and moving slowly
+
+###4577 - CARS3.21
+
+A properly adjusted head rest will: 
+
+1. Help you to maintain your driving position
+2. **Help you to avoid neck injury**
+3. Help you to relax
+4. Make you more comfortable
 
 ###4256  - CARS3.23
 
@@ -177,3 +303,67 @@ You enter a road where there are road humps. You should: 
 2. Drive slowly at school times only 
 3. Always keep to the maximum legal speed 
 4. Accelerate quickly between each one 
+
+###4585 - CARS3.39
+
+If you cannot see clearly behind when reversing what should you do?
+
+1. Look in the nearside mirror
+2. Open the door and look behind
+3. Open your window to look behind
+4. **Ask someone to guide you**
+
+###4586 - CARS3.41
+
+A properly serviced car will give: You a refund on your road tax
+
+1. Lower insurance premiums
+2. **Cleaner exhaust emissions**
+3. **Better fuel economy**
+
+###4587 - CARS3.42
+
+When a roof rack is not in use it should be removed. Why?
+
+1. It will affect your braking
+2. It is illegal
+3. It will affect the suspension
+4. **It will waste fuel**
+
+###4588 - CARS3.43
+
+A roof rack that is fitted to your car will:
+
+1. Make your car go faster
+2. Improve the road handling
+3. Reduce fuel consumption
+4. **Increase fuel consumption**
+
+###4589 - CARS3.44
+
+To reduce the volume of cars on the roads you could:
+
+1. **Walk or cycle on short journeys**
+2. **Share a car when possible**
+3. **Use public transport more often**
+4. Use a car with a smaller engine
+5. Travel by car at all times
+
+###4590 - CARS3.48
+
+For which TWO of these should you use hazard-warning lights?
+
+1. **When your vehicle has broken down and is causing an obstruction**
+2. When warning oncoming traffic that you intend to stop
+3. When your direction indicators are not working
+4. When you are double parked on a two-way road
+5. **When slowing down to warn other drivers behind of a hazard ahead**
+
+###4591 - CARS3.49
+
+If daytime visibility is poor but not seriously reduced you should switch on:
+
+1. Rear fog lights
+2. Front fog lights
+3. **Dipped headlights**
+4. Headlights and fog lights

@@ -1,3 +1,22 @@
+###4487 - CARS14.1
+
+Overloading your vehicle can seriously affect the:
+
+1. **Handling**
+2. **Steering**
+3. Journey time
+4. Battery life
+5. Gearbox
+
+###4488 - CARS14.2
+
+Who is responsible for making sure that a vehicle is not overloaded?
+
+1. **The driver of the vehicle**
+2. The owner of the vehicle
+3. The person who loaded the vehicle
+4. The owner of the items being carried
+
 ###4657 - CARS14.3
 
 Any load that is carried on a roof rack MUST be:

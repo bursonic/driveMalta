@@ -238,3 +238,57 @@ When should you give signals?
 3. **At all times in order to alert other road users including pedestrians of your intended actions.**
 4. In traffic only during the hours of darkness or in bad weather.
 5. To give you priority over other traffic when changing lanes or before pulling out.
+
+###4558 - CARS2.13
+
+You are driving on a clear night. There is a steady stream of oncoming cars. The national speed limit applies. Which lights should you use?
+
+1. Fog lights
+2. Sidelights
+3. **Dipped headlights**
+4. Full beam headlight
+
+###4559 - CARS2.21
+
+You are waiting in a traffic queue at night. To avoid dazzling the drivers behind you should:
+
+1. **Apply the handbrake only**
+2. Use both the handbrake and footbrake
+3. Switch off your headlights
+4. Apply the footbrake only
+
+###4560 - CARS2.27
+
+You are driving a slow-moving car on a narrow winding road. You should:
+
+1. Give a left signal when it is safe for vehicles to overtake you
+2. Wave following vehicles past you if you think they can overtake quickly
+3. **Pull in safely when you can to let following vehicles overtake**
+4. Keep well out to stop vehicles overtaking dangerously
+
+###4561 - CARS2.28
+
+You are driving a slow-moving car on a narrow road. When traffic wishes to overtake you should:
+
+1. Stop immediately and wave it on
+2. Put your hazard warning lights on
+3. Take no action
+4. **Pull in safely as soon as you can do so**
+
+###4562 - CARS2.29
+
+You are driving a slow-moving car on a narrow winding road. In order to let other vehicles overtake, you should:
+
+1. Keep left and hold your speed
+2. **Pull in safely when you can**
+3. Show a left turn signal
+4. Wave to them to pass
+
+###4563 - CARS2.40
+
+Which of the following are at greatest risk from other road users?
+
+1. **Motorcycles**
+2. Busy bus drivers
+3. Learner car drivers
+4. Lorry drivers

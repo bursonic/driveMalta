@@ -1,3 +1,40 @@
+###4592 - CARS4.1
+
+If your car is fitted with anti-lock brakes and you need to stop in an emergency. You should:
+
+1. Apply the handbrake to reduce the stopping distance
+2. **Press the brake pedal rapidly and firmly until you have stopped**
+3. Keep pushing and releasing the foot brake quickly to prevent skidding
+4. Brake normally and avoid turning the steering wheel
+
+###4593 - CARS4.2
+
+Anti-lock brakes reduce the chances of a skid occurring particularly when:
+
+1. Driving on good road surfaces
+2. Breaking during normal driving
+3. **Breaking in an emergency**
+4. Driving down steep hills
+
+###4594 - CARS4.3
+
+Vehicles fitted with an anti-lock brake system:
+
+1. Are not fitted with a handbrake
+2. **Can be steered while you are braking**
+3. Accelerate much faster
+4. Are impossible to skid
+
+###4595 - CARS4.4
+
+Anti-lock brakes may not work as effectively as you expect if the road surface is:
+
+1. Firm
+2. **Loose**
+3. Good
+4. Dry
+5. **Wet**
+
 ###4267  - CARS4.5
 
 If you are on a good dry road surface and your vehicle has good brakes and tyres. What is the overall stopping distance at 48 kph? 
@@ -49,6 +86,23 @@ Your overall stopping distance will be longer when driving: 
 3. At night 
 4. In fog 
 
+###4596 - CARS4.12
+
+What is the MOSTcommon reason a car skids?
+
+1. Pedestrians
+2. **Driver error**
+3. Other vehicles
+4. Worn tyres
+
+###4597 - CARS4.13
+
+When braking hard in a straight line most of the weight of the vehicle will shift onto the:
+
+1. **Front wheels**
+2. Right wheels
+3. Left wheels
+4. Rear wheels
 
 ###4272  - CARS4.14
 
@@ -60,6 +114,14 @@ light. You should: 
 3. Steer towards the side of the road 
 4. **Ease off the accelerator**
 
+###4598 - CARS4.15
+
+You have driven your car through a flood. What is the first thing you should do?
+
+1. Switch on your windscreen wipers
+2. Stop and dry the brakes
+3. Stop and check the tyres
+4. **Test your brakes**
 
 ###4273  - CARS4.16
 
@@ -151,3 +213,68 @@ You should not overtake when: 
 3. **The view ahead is blocked**
 4. **Approaching a junction** 
 5. **Intending to turn left shortly afterwards** 
+
+###4599 - CARS4.17
+
+You are turning left on a slippery road. The back of your vehicle slides to the right. You should:
+
+1. Brake firmly and steer to the left
+2. Steer carefully to the left
+3. Brake firmly and not turn the steering wheel
+4. **Steer carefully to the right**
+
+###4600 - CARS4.18
+
+Your vehicle does not have anti-lock brakes. If you are braking on a wet road and your vehicle begins to skid. What is the FIRST thing you should do?
+
+1. Gently use the accelerator
+2. Push harder on the brake pedal
+3. Quickly pull up the handbrake
+4. **Release the footbrake fully**
+
+###4601 - CARS4.19
+
+Clutch Coasting will: 
+
+1. Use more fuel
+2. Make steering easier
+3. **Reduce the driver's control**
+4. Improve the driver's control
+
+###4602 - CARS4.23
+
+You are about to go down a steep hill. To control the speed of your car you should:
+
+1. Select a low gear and avoid using the brakes
+2. Select a high gear and use the brakes firmly
+3. Select a high gear and use the brakes carefully
+4. **Select a low gear and use the brakes carefully**
+
+###4603 - CARS4.24
+
+You are on a long downhill slope. What should you do to help control the speed of your car?
+
+1. Apply the parking brake gently
+2. Grip the handbrake firmly
+3. Select neutral
+4. **Select a lower gear**
+
+###4604 - CARS4.26
+
+You wish to park facing DOWNHILL. Which TWO of the following should you do?
+
+1. **Turn the steering wheel towards the kerb**
+2. Turn the steering wheel away from the kerb
+3. Park with two wheels on the kerb
+4. Park close to the bumper of another car
+5. **Put the handbrake on firmly**
+
+###4605 - CARS4.31
+
+When should you use front and rear fog lights?
+
+1. When it is raining and just in case the roads are slippery.
+2. When the road is unlit by street lamps or they are not working.
+3. When going through tunnels.
+4. During any time of the day or night to make sure that other road users see me.
+5. **When visibility is considerably reduced because of fog.**

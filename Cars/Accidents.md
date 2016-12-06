@@ -1,3 +1,49 @@
+###4482 - CARS13.19
+
+You arrive at a scene of an accident. A passenger is bleeding badly from an arm wound. What should you do?
+
+1. Get them a drink
+2. Dab the wound
+3. Apply pressure over the wound and keep the arm down
+4. **Apply pressure over the wound and raise the arm**
+
+###4483 - CARS13.20
+
+At an accident a casualty is unconscious but still breathing. You should only move the person if:
+
+1. Bystanders will help you to
+2. Bystanders advise you to
+3. **There is further danger to the casualty**
+4. An ambulance is on its way
+
+###4484 - CARS13.21
+
+At an accident you suspect that a casualty has back injuries. The area is safe. You should:
+
+1. Offer them a cigarette
+2. **Not move them at all**
+3. Raise their legs
+4. Offer them a drink
+
+###4485 - CARS13.25
+
+The police may ask you to produce which three of these documents following an accident?
+
+1. **Driving licence**
+2. **Vehicle registration document (log book)**
+3. Road tax disc
+4. VRT test certificate
+5. **Insurance certificate**
+
+###4486 - CARS13.28
+
+On the dual carriageway the hard shoulder should be used
+
+1. To check a road atlas
+2. **When an emergency arises**
+3. For a short rest when tired
+4. To answer a mobile phone
+
 ###4655 - CARS13.26
 
 Your tyre bursts while you are driving. Which TWO things should you do?
