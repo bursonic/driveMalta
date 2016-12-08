@@ -183,10 +183,12 @@ You are driving in a built-up residential area. You are approaching road humps
 4. Move across to the left-hand side of the road
 
 
-###4279  - CARS4.28!!!
+###4279  - CARS4.28
 
 When approaching a right-hand bend you should keep well to the 
 left. Why is this? 
+
+![](images/triangle.png)
 
 1. To be positioned safely if the vehicle skids
 2. To let faster traffic from behind overtake
@@ -194,7 +196,9 @@ left. Why is this? 
 4. **To improve your view of the road**
 
 
-###4280  - CARS4.29!!!
+###4280  - CARS4.29
+
+![](images/triangle.png)
 
 You are approaching a right-hand bend. You should: 
 
