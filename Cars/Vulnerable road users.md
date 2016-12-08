@@ -12,10 +12,11 @@ You are driving on a quiet country road. What should you expect to see coming to
 
 Which sign means that there may be people walking along the road? 
 
-1. 
-2. 
-3. 
-4. 
+1. ![](images/img1.png) 
+2. ![](images/img1.png) 
+3. ![](images/img1.png) 
+4. ![correct](images/img2.png)
+5. ![correct](images/img2.png)
 
 
 ###4312  - CARS6.4
