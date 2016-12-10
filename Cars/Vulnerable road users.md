@@ -12,10 +12,10 @@ You are driving on a quiet country road. What should you expect to see coming to
 
 Which sign means that there may be people walking along the road? 
 
-1. 
-2. 
-3. 
-4. 
+1. ![](images/CARS_E-685.png)
+2. ![](images/CARS_E-686.png) 
+3. ![](images/CARS_E-687.png) 
+4. ![correct](images/CARS_E-688.png)
 
 
 ###4312  - CARS6.4
@@ -134,20 +134,20 @@ If you are following a car driven by an elderly driver you should: 
 
 Which sign tells you that pedestrians may be walking in the road as there is no pavement? 
 
-1. 
-2. 
-3. 
-4. 
+1. ![correct](images/CARS_E-688.png)
+2. ![](images/CARS_E-763.png) 
+3. ![](images/CARS_E-687.png) 
+4. ![](images/CARS_E-765.png)
 
 
 ###4324  - CARS6.21
 
 Which sign means there maybe elderly pedestrians likely to cross the road? 
 
-1. 
-2. 
-3. 
-4. 
+1. ![correct](images/CARS_E-763.png)
+2. ![](images/CARS_E-687.png) 
+3. ![](images/CARS_E-765.png) 
+4. ![](images/CARS_E-688.png) 
 
 
 ###4325  - CARS6.22
@@ -341,9 +341,11 @@ How should you overtake horse riders? 
 4. **Drive slowly and leave plenty of room** 
 
 
-###4344  - CARS6.53!!!
+###4344  - CARS6.53
 
-You notice horse riders ahead of you. What should you do FIRST? 
+You notice horse riders ahead of you. What should you do first?
+
+![](images/CARS_E-906.png)
 
 1. Signal right 
 2. **Be prepared to slow down** 
