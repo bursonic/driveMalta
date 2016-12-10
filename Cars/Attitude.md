@@ -98,9 +98,11 @@ When following another vehicle whilst driving on the road you should not
 4. Look through the rear view mirror
 
 
-###4236 - CARS2.14 !!!
+###4236 - CARS2.14
 
 Following this vehicle too closely is unwise because:
+
+![](images/CARS_E-1056.png)
 
 1. Your engine will overheat
 2. **Your view ahead is reduced**
