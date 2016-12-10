@@ -65,9 +65,11 @@ You are driving behind a long vehicle approaching a crossroad. The driver signal
 4. Warn the driver of the wrong signal
 
 
-###4356  - CARS7.8!!!
+###4356  - CARS7.8
 
 You are approaching a small roundabout. The long vehicle in front is signaling left but is positioned over to the right. You should:
+
+![](images/CARS_E-988.png)
 
 1. Follow the same course as the lorry
 2. Overtake on the left
@@ -145,9 +147,11 @@ You are driving in a city. Ahead of you a bus is at a bus stop. Which TWO of the
 4. Pass the bus as quickly as you possibly can
 
 
-###4364  - CARS7.17!!!
+###4364  - CARS7.17
 
 When you approach a bus that is about to move off from a bus stop you should:
+
+![](images/CARS_E-1042.png)
 
 1. Signal left and wave the bus on
 2. **Allow it to pull away, if it is safe to do so**
@@ -165,9 +169,11 @@ What is the effect of not keeping to the two second rule "tailgating" when drivi
 4. **When a driver is following another vehicle too closely**
 
 
-###4366  - CARS7.20!!!
+###4366  - CARS7.20
 
 You are following a large lorry on a wet road. Spray makes it difficult to see. You should:
+
+![](images/CARS_E-1056.png)
 
 1. **Drop back until you can see better**
 2. Speed up and overtake quickly
