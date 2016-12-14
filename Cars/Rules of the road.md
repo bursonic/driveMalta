@@ -340,7 +340,7 @@ While driving you intend to turn left into a minor road. On the approach you sho
 4. **Keep well to the left of the road**
 
 
-###4428 - CARS1034
+###4428 - CARS10.34
 
 You may only enter a box junction when:
 

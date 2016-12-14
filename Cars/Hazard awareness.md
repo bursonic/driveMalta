@@ -274,7 +274,7 @@ What is the maximum permissible alcohol level above which a driver must not driv
 1. Breath alcohol level of 20 mg/100ml or blood alcohol level of 60mm/100ml. 
 2. **Breath alcohol level of 35 mg/100ml or blood alcohol level of 80mg/100ml.**
 3. Breath alcohol level of 45 mg/100ml or blood alcohol level of 90mm/100ml. 
-4. Breath alcohol level of 25 mg/100ml or blood alcohol level of 70mg/100ml. 
+4. Breath alcohol level of 25 mg/100ml or blood alcohol level of 70mg/100ml. 
 
 ###4606 - CARS5.25
 

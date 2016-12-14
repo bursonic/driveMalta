@@ -90,7 +90,7 @@ this be done? 
 1. When tyres are hot
 2. After driving at high speed 
 3. After any lengthy journey 
-4. **When tyres are cold**
+4. **When tyres are cold**
 
 
 ###4253  - CARS3.8
@@ -100,7 +100,7 @@ It is very important that tyre pressures are correct. They should be checked at
 1. Every time the vehicle has an VRT test 
 2. **Once a week**
 3. Once a month
-4. Every time the vehicle is serviced 
+4. Every time the vehicle is serviced 
 
 
 ###4254  - CARS3.9
@@ -110,7 +110,7 @@ Driving with under-inflated (low) tyres can affect: 
 1. Oil pressure 
 2. **Braking** 
 3. **Fuel consumption**
-4. Engine temperatures
+4. Engine temperatures
 
 ###4571 - CARS3.13
 
@@ -156,7 +156,7 @@ When MUST you use dipped lights during the day? 
 1. When parking
 2. Along narrow streets
 3. **In poor visibility**
-4. All the time
+4. All the time
 
 ###4575 - CARS3.19
 
@@ -192,7 +192,7 @@ How can you as a vehicle driver help the environment? 
 1. **By servicing your vehicle properly**
 2. **By gentle acceleration**
 3. By harsh acceleration 
-4. By driving faster
+4. By driving faster
 5. **By reducing your speed**
 6. By using leaded fuel 
 
@@ -204,7 +204,7 @@ Motor vehicles can harm the environment resulting in: 
 1. **Using up natural resources**
 2. **Damage to buildings**
 3. Less use of electric vehicles 
-4. Improved public transport 
+4. Improved public transport 
 5. Reduced health risks 
 6. **Air pollution**
 
@@ -217,7 +217,7 @@ should: 
 1. Use busy routes
 2. **Plan well ahead**
 3. **Brake in good time**
-4. **Avoid harsh acceleration**
+4. **Avoid harsh acceleration**
 5. Use narrow side streets 
 
 
@@ -228,7 +228,7 @@ You will help your environment if you: 
 1. Accelerate and brake sharply 
 2. Drive continually using full choke 
 3. Reduce the tyre pressure 
-4. **Walk or cycle when you can**
+4. **Walk or cycle when you can**
 
 
 ###4260  - CARS3.30
@@ -238,7 +238,7 @@ To help the environment you should NOT: 
 1. Empty the boot of unnecessary weight 
 2. **Use your vehicle for very short journeys**
 3. Walk cycle or use public transport 
-4. Remove your roof rack when unloaded 
+4. Remove your roof rack when unloaded 
 
 
 ###4261  - CARS3.31
@@ -248,7 +248,7 @@ Excessive or uneven wear on the tyres can be caused by faults in: 
 1. The exhaust system 
 2. **The suspension**
 3. The accelerator 
-4. The gearbox
+4. The gearbox
 5. **Wheel alignment** 
 6. **The braking system**
 
@@ -260,7 +260,7 @@ Which of the following will reduce fuel consumption? 
 1. **Planning well ahead**
 2. **Reducing your road speed** 
 3. Rapid acceleration
-4. Short journeys with a cold engine 
+4. Short journeys with a cold engine 
 5. Driving in lower gears
 6. Late and harsh braking 
 
@@ -272,7 +272,7 @@ You should NOT sound your horn: 
 1. Between 11.30 pm and 7 am in a built-up area 
 2. At any time in a built-up area 
 3. Between 10 pm and 6 am in a built-up area
-4. **Between 11.00 pm and 6 am in a built-up area**
+4. **Between 11.00 pm and 6 am in a built-up area**
 
 
 ###4264  - CARS3.45
@@ -282,7 +282,7 @@ In some residential roads you will find a speed limit of: 
 1. 80 kph 
 2. 60 kph 
 3. **35kph** 
-4. 50 kph 
+4. 50 kph 
 
 
 ###4265  - CARS3.46
@@ -292,7 +292,7 @@ Road humps, chicanes and narrowing are: 
 1. At toll-bridge approaches only 
 2. Used to increase traffic speed 
 3. Always at major road works 
-4. **Traffic calming measures**
+4. **Traffic calming measures**
 
 
 ###4266  - CARS3.47
@@ -302,7 +302,7 @@ You enter a road where there are road humps. You should: 
 1. **Maintain a reduced speed throughout**
 2. Drive slowly at school times only 
 3. Always keep to the maximum legal speed 
-4. Accelerate quickly between each one 
+4. Accelerate quickly between each one 
 
 ###4585 - CARS3.39
 
