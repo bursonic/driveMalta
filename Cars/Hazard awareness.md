@@ -32,7 +32,7 @@ You are about to drive home. You cannot find the glasses you need to wear when 
 
 ###4284  - CARS5.5
 
-You MUST wear glasses or contact lenses when driving on public roads if: 
+You must wear glasses or contact lenses when driving on public roads if: 
 
 1. There is an eyesight problem in your family 
 2. You cannot read a vehicle number plate from a distance of 36 meters (120 feet) without them 
@@ -42,7 +42,7 @@ You MUST wear glasses or contact lenses when driving on public roads if: 
 
 ###4285  - CARS5.6
 
-Which THREE result from drinking alcohol and driving? 
+Which three result from drinking alcohol and driving? 
 
 1. **Less control**
 2. **Poor judgment of speed** 
@@ -53,7 +53,7 @@ Which THREE result from drinking alcohol and driving? 
 
 ###4286  - CARS5.7
 
-Which THREE of these are likely effects of drinking alcohol on driving? 
+Which three of these are likely effects of drinking alcohol on driving? 
 
 1. **Poor judgment**
 2. **Increased confidence** 
@@ -137,7 +137,7 @@ You go to a social event and need to drive a short time after. What precautions
 
 ###4294  - CARS5.15
 
-It is eight hours since you last had an alcoholic drink. Which TWO of the following applies? 
+It is eight hours since you last had an alcoholic drink. Which two of the following applies? 
 
 1. You will have no alcohol in your system 
 2. You will certainly be under the legal limit 
@@ -177,7 +177,7 @@ You become ill. A doctor prescribes drugs which are likely to affect your drivin
 
 ###4298  - CARS5.19
 
-During periods of illness your ability to drive may be impaired. You MUST: 
+During periods of illness your ability to drive may be impaired. You must: 
 
 1. Take all your medicines with you when you drive 
 2. Only take smaller doses of any medicines 
@@ -218,8 +218,7 @@ Your reaction will be much slower when driving: 
 
 ###4303  - CARS5.24
 
-Which THREE are likely to make you lose concentration while 
-driving? 
+Which THREE are likely to make you lose concentration while driving? 
 
 1. **Using a mobile phone**
 2. Looking in your wing mirror 
@@ -228,10 +227,21 @@ driving? 
 5. **Looking at road maps** 
 
 
+###4606 - CARS5.25
+
+A correct seating position will enable you to:
+
+1. Rest your hand on the gear lever
+2. **Have a suitable grip on the steering wheel**
+3. Talk to all your passengers
+4. **Have good visibility through the windows**
+5. **Comfortably reach the pedals**
+6. Rest your head against the head restraint
+
+
 ###4304  - CARS5.26
 
-A driver pulls out of a side road in front of you. You have to brake 
-hard. You should 
+A driver pulls out of a side road in front of you. You have to brake hard. You should 
 
 1. **Ignore the error and stay calm**
 2. Overtake as soon as possible
@@ -283,18 +293,7 @@ You take the wrong route and find you are well into a one-way street. You should
 
 What is the maximum permissible alcohol level above which a driver must not drive? 
 
-1. Breath alcohol level of 20 mg/100ml or blood alcohol level of 60mm/100ml. 
-2. **Breath alcohol level of 35 mg/100ml or blood alcohol level of 80mg/100ml.**
-3. Breath alcohol level of 45 mg/100ml or blood alcohol level of 90mm/100ml. 
-4. Breath alcohol level of 25 mg/100ml or blood alcohol level of 70mg/100ml. 
-
-###4606 - CARS5.25
-
-A correct seating position will enable you to:
-
-1. Rest your hand on the gear lever
-2. **Have a suitable grip on the steering wheel**
-3. Talk to all your passengers
-4. **Have good visibility through the windows**
-5. **Comfortably reach the pedals**
-6. Rest your head against the head restraint
+1. Breath alcohol level of 20 mg on 100 ml or blood alcohol level of 60 mm on 100ml 
+2. **Breath alcohol level of 35 mg on 100 ml or blood alcohol level of 80 mg on 100 ml**
+3. Breath alcohol level of 45 mg on 100 ml or blood alcohol level of 90 mm on 100 ml
+4. Breath alcohol level of 25 mg on 100 ml or blood alcohol level of 70 mg on 100 ml
