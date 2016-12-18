@@ -293,7 +293,7 @@ You take the wrong route and find you are well into a one-way street. You should
 
 What is the maximum permissible alcohol level above which a driver must not drive? 
 
-1. Breath alcohol level of 20 mg on 100 ml or blood alcohol level of 60 mm on 100ml 
-2. **Breath alcohol level of 35 mg on 100 ml or blood alcohol level of 80 mg on 100 ml**
-3. Breath alcohol level of 45 mg on 100 ml or blood alcohol level of 90 mm on 100 ml
-4. Breath alcohol level of 25 mg on 100 ml or blood alcohol level of 70 mg on 100 ml
+1. Breath alcohol level of 20 mg per 100 ml or blood alcohol level of 60 mm per 100ml 
+2. **Breath alcohol level of 35 mg per 100 ml or blood alcohol level of 80 mg per 100 ml**
+3. Breath alcohol level of 45 mg per 100 ml or blood alcohol level of 90 mm per 100 ml
+4. Breath alcohol level of 25 mg per 100 ml or blood alcohol level of 70 mg per 100 ml
