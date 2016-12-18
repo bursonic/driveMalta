@@ -225,7 +225,7 @@ At an accident you suspect that a casualty has back injuries. The area is safe. 
 
 ###4653 - CARS13.22
 
-For which TWO should you use hazard-warning lights?
+For which two should you use hazard-warning lights?
 
 1. **When you have broken down**
 2. **When you slow down quickly because of a hazard ahead**
@@ -256,7 +256,7 @@ The police may ask you to produce which three of these documents following an ac
 
 ###4655 - CARS13.26
 
-Your tyre bursts while you are driving. Which TWO things should you do?
+Your tyre bursts while you are driving. Which two things should you do?
 
 1. Continue on at a normal speed
 2. **Hold the steering wheel firmly to keep control**
@@ -266,7 +266,7 @@ Your tyre bursts while you are driving. Which TWO things should you do?
 
 ###4656 - CARS13.27
 
-Which TWO things should you do when a front tyre bursts?
+Which two things should you do when a front tyre bursts?
 
 1. Let the vehicle roll to a stop
 2. **Grip the steering wheel firmly**
