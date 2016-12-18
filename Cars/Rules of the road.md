@@ -24,9 +24,9 @@ What is the meaning of this sign?
 
 What is the national speed limit outside built up areas unless otherwise indicated for cars and motorcycles?
 
-1. 100kph
-2. 60kph
-3. **80kph**
+1. 100 kph
+2. 60 kph
+3. **80 kph**
 4. 50 kph
 
 
@@ -34,10 +34,10 @@ What is the national speed limit outside built up areas unless otherwise indicat
 
 What is the national speed limit unless otherwise indicated on dual carriageways for cars and motorcycles?
 
-1. 50kph
-2. 70kph
-3. **80kph**
-4. 100kph
+1. 50 kph
+2. 70 kph
+3. **80 kph**
+4. 100 kph
 
 
 ###4490 - CARS10.5
@@ -66,7 +66,7 @@ What does a speed limit sign likethis mean?
 
 ###4402 - CARS10.7
 
-You are driving along a street with parked vehicles on the left-hand side. For which THREEreasons should you keep your speed down?
+You are driving along a street with parked vehicles on the left-hand side. For which three reasons should you keep your speed down?
 
 1. **Children may run out from between the vehicles**
 2. **Drivers' doors may open**
@@ -87,7 +87,7 @@ You meet an obstruction on your side of the road. You should:
 
 ###4404 - CARS10.9
 
-There is a tractor ahead of you. You wish to overtake but you are NOT sure if it is safe to do so. You should:
+There is a tractor ahead of you. You wish to overtake but you are not sure if it is safe to do so. You should:
 
 1. Speed through but flash your lights to oncoming traffic
 2. Sound your horn to the slow vehicle to pull over
@@ -412,7 +412,7 @@ You are parked in a busy high street. What is the safest way to turn your vehicl
 
 ###4648 - CARS10.40
 
-When you are NOT sure that it is safe to reverse your vehicle you should:
+When you are not sure that it is safe to reverse your vehicle you should:
 
 1. Use your horn
 2. Reverse slowly
@@ -464,7 +464,7 @@ When can you overtake in a tunnel?
 
 What are the maximum national speed limits for cars and motorcycles in built-up areas and elsewhere?
 
-1. 40kph and 70kph
-2. **50kph and 80kph**
-3. 30kph and 60kph
-4. 45kph and 100kph
+1. 40 kph and 70 kph
+2. **50 kph and 80 kph**
+3. 30 kph and 60 kph
+4. 45 kph and 100 kph
