@@ -1,24 +1,3 @@
-###4650 - CARS12.5
-
-Your car has third party insurance. What does this cover?
-
-1. **Damage to other vehicles**
-2. **Damage to someone's property**
-3. Injury to yourself
-4. **Injury to another person**
-5. Damage to your car by fire
-6. Damage to your own car
-
-###4651 - CARS12.6
-
-A VRT certificate is normally valid for:
-
-1. 30,000 miles
-2. One year after the date it was issued
-3. 10,000 miles
-4. **Two years after the date it was issued**
-
-
 ###4456 - CARS12.1
 
 To supervise a learner driver you must:
@@ -31,7 +10,7 @@ To supervise a learner driver you must:
 
 ###4457 - CARS12.2
 
-For which THREE of these must you show your motor insurance certificate?
+For which three of these must you show your motor insurance certificate?
 
 1. **When you are taxing your vehicle**
 2. **When a police officer asks you for it**
@@ -59,6 +38,28 @@ What is the legal minimum insurance cover you must have to drive on public roads
 4. **Third party only**
 
 
+###4650 - CARS12.5
+
+Your car has third party insurance. What does this cover?
+
+1. **Damage to other vehicles**
+2. **Damage to someone's property**
+3. Injury to yourself
+4. **Injury to another person**
+5. Damage to your car by fire
+6. Damage to your own car
+
+
+###4651 - CARS12.6
+
+A VRT certificate is normally valid for:
+
+1. 30,000 miles
+2. One year after the date it was issued
+3. 10,000 miles
+4. **Two years after the date it was issued**
+
+
 ###4460 - CARS12.7
 
 Which three of the following do you need before you can drive legally?
@@ -73,7 +74,7 @@ Which three of the following do you need before you can drive legally?
 
 ###4461 - CARS12.8
 
-Which TWO pieces of information are found on a vehicle registration document?
+Which two pieces of information are found on a vehicle registration document?
 
 1. **Make of the vehicle**
 2. **Registered owner**
