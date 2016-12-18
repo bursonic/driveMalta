@@ -1,43 +1,3 @@
-###4648 - CARS10.40
-
-When you are NOT sure that it is safe to reverse your vehicle you should:
-
-1. Use your horn
-2. Reverse slowly
-3. **Get out and check**
-4. Rev your engine
-
-
-###4649 - CARS10.41
-
-You are reversing your vehicle into a side road. When would the greatest hazard to passing traffic occur?
-
-1. After you've entered the side road
-2. Just before you actually begin to manoeuvre
-3. After you've completed the manoeuvre
-4. **When the front of your vehicle swings out**
-
-
-###4646 - CARS10.37
-
-You may remove your seat belt temporarily when carrying out a manoeuvre that involves:
-
-1. **Reversing**
-2. Driving slowly
-3. An emergency stop
-4. A hill start
-
-
-###4647 - CARS10.38
-
-You must not reverse: 
-
-1. **For longer than necessary**
-2. In a built-up area
-3. Into a side road
-4. For more than a car's length
-
-
 ###4399 - CARS10.1
 
 You may drive over a footpath:
@@ -46,6 +6,18 @@ You may drive over a footpath:
 2. When the pavement is very wide
 3. To overtake slow-moving traffic
 4. **To gain lawful access into a property**
+
+
+###4489 - CARS10.2
+
+What is the meaning of this sign?
+
+![](images/CARS_E-2278.png)
+
+1. No entry to vehicular traffic
+2. No waiting on the carriageway
+3. **National speed limit applies**
+4. Local speed limit applies
 
 
 ###4400 - CARS10.3
@@ -66,6 +38,30 @@ What is the national speed limit unless otherwise indicated on dual carriageways
 2. 70kph
 3. **80kph**
 4. 100kph
+
+
+###4490 - CARS10.5
+
+You see this sign ahead of you. It means:
+
+![](images/CARS_E-1900.png)
+
+1. The minimum speed limit ahead is 30 kph
+2. You are leaving the 30 kph speed limit area
+3. Start to slow down to 30 kph after passing it
+4. **Do not exceed 30 kph after passing it**
+
+
+###4491 - CARS10.6
+
+What does a speed limit sign likethis mean?
+
+![](images/CARS_E-1907.png)
+
+1. The speed shown allows for various road and weather conditions
+2. The speed shown is the advised maximum
+3. It is safe to drive at the speed shown
+4. **You must not exceed the speed shown**
 
 
 ###4402 - CARS10.7
@@ -162,6 +158,18 @@ In which two places must you not park?
 3. In a side road
 4. **Near a school entrance**
 5. Near a police station
+
+
+###4492 - CARS10.16
+
+What is the meaning of this sign?
+
+![](images/CARS_E-2003.png)
+
+1. School crossing patrol
+2. **Waiting restrictions**
+3. National speed limit
+4. No entry
 
 
 ###4411 - CARS10.17
@@ -372,6 +380,26 @@ You are on a busy main road and find that you are in a wrong direction. What sho
 4. **Turn round in a side road**
 
 
+###4646 - CARS10.37
+
+You may remove your seat belt temporarily when carrying out a manoeuvre that involves:
+
+1. **Reversing**
+2. Driving slowly
+3. An emergency stop
+4. A hill start
+
+
+###4647 - CARS10.38
+
+You must not reverse: 
+
+1. **For longer than necessary**
+2. In a built-up area
+3. Into a side road
+4. For more than a car's length
+
+
 ###4431 - CARS10.39
 
 You are parked in a busy high street. What is the safest way to turn your vehicle around to go the opposite way?
@@ -380,6 +408,26 @@ You are parked in a busy high street. What is the safest way to turn your vehicl
 2. Do a U-turn
 3. Get someone to stop the traffic
 4. Drive into a side road and reverse into the main road
+
+
+###4648 - CARS10.40
+
+When you are NOT sure that it is safe to reverse your vehicle you should:
+
+1. Use your horn
+2. Reverse slowly
+3. **Get out and check**
+4. Rev your engine
+
+
+###4649 - CARS10.41
+
+You are reversing your vehicle into a side road. When would the greatest hazard to passing traffic occur?
+
+1. After you've entered the side road
+2. Just before you actually begin to manoeuvre
+3. After you've completed the manoeuvre
+4. **When the front of your vehicle swings out**
 
 
 ###4432 - CARS10.42
