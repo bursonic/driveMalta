@@ -1,6 +1,6 @@
 ###4226 - CARS2.1
 
-A pelican crossing that crosses the road in a STRAIGHT line and has a central traffic island MUST be treated as:
+A pelican crossing that crosses the road in a straight line and has a central traffic island MUST be treated as:
 
 1. Two crossings during darkness
 2. **One complete crossing**
@@ -10,7 +10,7 @@ A pelican crossing that crosses the road in a STRAIGHT line and has a central tr
 
 ###4227 - CARS2.2
 
-When at a pelican crossing the amber light means you MUST
+When at a pelican crossing the amber light means you must:
 
 1. **Give way to pedestrians already on the crossing**
 2. **Stop and wait for the red light**
@@ -20,7 +20,7 @@ When at a pelican crossing the amber light means you MUST
 
 ###4228 - CARS2.3
 
-You are approaching a pelican crossing. The amber light is showing. You MUST:
+You are approaching a pelican crossing. The amber light is showing. You must:
 
 1. **Not move until the green light appears**
 2. Encourage pedestrians to cross
@@ -80,7 +80,7 @@ You stopped for pedestrians waiting to cross at a zebra crossing. They did not s
 
 ###4234 - CARS2.9
 
-You may use the "Two-Second Rule"
+You may use the "two-second rule"
 
 1. When emerging on wet roads
 2. **To keep a safe gap from the vehicle in front**
@@ -96,6 +96,16 @@ When following another vehicle whilst driving on the road you should not
 2. Reverse into a parking space
 3. **Follow vehicle too closely**
 4. Look through the rear view mirror
+
+
+###4558 - CARS2.13
+
+You are driving on a clear night. There is a steady stream of oncoming cars. The national speed limit applies. Which lights should you use?
+
+1. Fog lights
+2. Sidelights
+3. **Dipped headlights**
+4. Full beam headlight
 
 
 ###4236 - CARS2.14
@@ -140,6 +150,16 @@ You are driving at the legal speed limit. A vehicle comes up quickly behind flas
 4. **Allow the vehicle to overtake**
 
 
+###4559 - CARS2.21
+
+You are waiting in a traffic queue at night. To avoid dazzling the drivers behind you should:
+
+1. **Apply the handbrake only**
+2. Use both the handbrake and footbrake
+3. Switch off your headlights
+4. Apply the footbrake only
+
+
 ###4240 - CARS2.22
 
 When are you permitted to exceed the maximum speed limit?
@@ -158,6 +178,36 @@ A heavy lorry is taking a long time to overtake you. What should you do?
 2. **Slow down**
 3. Slow down
 4. Speed up
+
+
+###4560 - CARS2.27
+
+You are driving a slow-moving car on a narrow winding road. You should:
+
+1. Give a left signal when it is safe for vehicles to overtake you
+2. Wave following vehicles past you if you think they can overtake quickly
+3. **Pull in safely when you can to let following vehicles overtake**
+4. Keep well out to stop vehicles overtaking dangerously
+
+
+###4561 - CARS2.28
+
+You are driving a slow-moving car on a narrow road. When traffic wishes to overtake you should:
+
+1. Stop immediately and wave it on
+2. Put your hazard warning lights on
+3. Take no action
+4. **Pull in safely as soon as you can do so**
+
+
+###4562 - CARS2.29
+
+You are driving a slow-moving car on a narrow winding road. In order to let other vehicles overtake, you should:
+
+1. Keep left and hold your speed
+2. **Pull in safely when you can**
+3. Show a left turn signal
+4. Wave to them to pass
 
 
 ###4242 - CARS2.30
@@ -193,7 +243,7 @@ A bus has stopped at a bus stop ahead of you. Its right-hand indicator is flashi
 
 ###4245 - CARS2.33
 
-You should ONLY flash your headlights to other roads users:
+You should only flash your headlights to other roads users:
 
 1. To tell them that you have right of way
 2. To show that you are about to reverse
@@ -231,6 +281,16 @@ You wish to turn right ahead. Why should you take up the proper position in good
 4. To allow other drivers to pull out in front of you
 
 
+###4563 - CARS2.40
+
+Which of the following are at greatest risk from other road users?
+
+1. **Motorcycles**
+2. Busy bus drivers
+3. Learner car drivers
+4. Lorry drivers
+
+
 ###4249 - CARS2.41
 
 When should you give signals?
@@ -240,57 +300,3 @@ When should you give signals?
 3. **At all times in order to alert other road users including pedestrians of your intended actions.**
 4. In traffic only during the hours of darkness or in bad weather.
 5. To give you priority over other traffic when changing lanes or before pulling out.
-
-###4558 - CARS2.13
-
-You are driving on a clear night. There is a steady stream of oncoming cars. The national speed limit applies. Which lights should you use?
-
-1. Fog lights
-2. Sidelights
-3. **Dipped headlights**
-4. Full beam headlight
-
-###4559 - CARS2.21
-
-You are waiting in a traffic queue at night. To avoid dazzling the drivers behind you should:
-
-1. **Apply the handbrake only**
-2. Use both the handbrake and footbrake
-3. Switch off your headlights
-4. Apply the footbrake only
-
-###4560 - CARS2.27
-
-You are driving a slow-moving car on a narrow winding road. You should:
-
-1. Give a left signal when it is safe for vehicles to overtake you
-2. Wave following vehicles past you if you think they can overtake quickly
-3. **Pull in safely when you can to let following vehicles overtake**
-4. Keep well out to stop vehicles overtaking dangerously
-
-###4561 - CARS2.28
-
-You are driving a slow-moving car on a narrow road. When traffic wishes to overtake you should:
-
-1. Stop immediately and wave it on
-2. Put your hazard warning lights on
-3. Take no action
-4. **Pull in safely as soon as you can do so**
-
-###4562 - CARS2.29
-
-You are driving a slow-moving car on a narrow winding road. In order to let other vehicles overtake, you should:
-
-1. Keep left and hold your speed
-2. **Pull in safely when you can**
-3. Show a left turn signal
-4. Wave to them to pass
-
-###4563 - CARS2.40
-
-Which of the following are at greatest risk from other road users?
-
-1. **Motorcycles**
-2. Busy bus drivers
-3. Learner car drivers
-4. Lorry drivers
