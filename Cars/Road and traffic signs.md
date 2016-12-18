@@ -20,7 +20,7 @@ Traffic signs giving orders are generally which shape?
 
 ###4494 - CARS11.3
 
-Which type of sign tells you NOT to do something?
+Which type of sign tells you not to do something?
 
 1. ![correct](images/CARS_E-2066.png) 
 2. ![](images/CARS_E-1929.png) 
@@ -663,7 +663,7 @@ You are approaching traffic lights. Red and amber are showing. This means:
 
 ###4448 - CARS11.60
 
-You are at a junction controlled by traffic lights. When should you NOT proceed at green?
+You are at a junction controlled by traffic lights. When should you not proceed at green?
 
 ![](images/CARS_E-1616.png)
 
