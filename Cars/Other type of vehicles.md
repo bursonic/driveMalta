@@ -7,6 +7,7 @@ The road is wet and slippery. Why might a motorcyclist steer round drain covers 
 3. To avoid puncturing the tyres on the edge of the drain covers
 4. **To prevent the motorcycle sliding on the metal drain covers**
 
+
 ###4627 - CARS7.2
 
 It is very windy. You are behind a motorcyclist who is overtaking a high vehicle. What should you do?
@@ -16,6 +17,7 @@ It is very windy. You are behind a motorcyclist who is overtaking a high vehicle
 3. Stay level with the motorcycle
 4. Overtake the motorcyclist immediately
 
+
 ###4628 - CARS7.3
 
 It is very blustery and windy. You are about to overtake a motorcyclist. You should:
@@ -24,6 +26,7 @@ It is very blustery and windy. You are about to overtake a motorcyclist. You sho
 2. **Allow extra room**
 3. Sound your horn
 4. Overtake slowly
+
 
 ###4352  - CARS7.4
 
@@ -139,7 +142,7 @@ You are traveling behind a bus that suddenly pulls up at a bus stop. What should
 
 ###4363  - CARS7.16
 
-You are driving in a city. Ahead of you a bus is at a bus stop. Which TWO of the following should you do?
+You are driving in a city. Ahead of you a bus is at a bus stop. Which two of the following should you do?
 
 1. **Be prepared to give way if the bus suddenly moves off**
 2. Continue at the same speed but sound your horn as warning
