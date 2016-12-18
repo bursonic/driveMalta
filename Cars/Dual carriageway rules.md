@@ -61,7 +61,7 @@ Which vehicles are normally fitted with amber flashing beacons on the roof?
 
 ###4394 - CARS9.7
 
-What should you use the hard shoulder of a multi-lanecarriageway for?
+What should you use the hard shoulder of a multi-lane carriageway for?
 
 1. **Stopping in an emergency**
 2. Joining the dual-carriageway
@@ -71,7 +71,7 @@ What should you use the hard shoulder of a multi-lanecarriageway for?
 
 ###4395 - CARS9.8
 
-After a breakdown you need to rejoin the main carriageway of a multi-lane-carriageway from the hard shoulder. You should:
+After a breakdown you need to rejoin the main carriageway of a multi-lane carriageway from the hard shoulder. You should:
 
 1. Wait on the hard shoulder until someone flashes their headlights at you
 2. Move out onto the carriageway using your hazard lights
@@ -91,7 +91,7 @@ The minimum safe time gap to keep between you and the vehicle in front in good c
 
 ###4397 - CARS9.10
 
-You are intending to leave the multi-lane-carriageway at the next exit. Before you reach the exit you should normally position your vehicle:
+You are intending to leave the multi-lane carriageway at the next exit. Before you reach the exit you should normally position your vehicle:
 
 1. In any lane
 2. **In the left-hand lane**
@@ -101,10 +101,10 @@ You are intending to leave the multi-lane-carriageway at the next exit. Before y
 
 ###4398 - CARS9.11
 
-You are driving on a multi-lanecarriageway. By mistake, you go past the exit that you wanted to take. You should:
+You are driving on a multi-lane carriageway. By mistake, you go past the exit that you wanted to take. You should:
 
 
-1. Make a U-turn at the next gap in the central reservation
+1. Make a u-turn at the next gap in the central reservation
 2. **Carry on to the next exit**
 3. Carefully reverse in the left-hand lane
 4. Carefully reverse on the hard shoulder
