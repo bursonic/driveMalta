@@ -137,6 +137,31 @@ Using a mobile phone while you are driving
 3. **Could distract your attention from the road**
 4. Is acceptable in a vehicle with power steering
 
+
+###4547 - CARS1.16
+
+The white arrow in the diagram means that you should not plan to:
+
+![](images/CARS_E-2287.png)
+
+1. Turn left
+2. Turn right
+3. **Overtake**
+4. Slow down
+
+
+###4548 - CARS1.17
+
+The road marking in the diagram warns:
+
+![](images/CARS_E-2287.png)
+
+1. Drivers that it is safe to overtake
+2. Overtaking drivers there is a bend to the left
+3. **Overtaking drivers to move back to the left**
+4. Drivers to use the hard shoulder
+
+
 ###4220 - CARS1.18
 
 You are driving along a narrow country road. When passing a cyclist you should drive
