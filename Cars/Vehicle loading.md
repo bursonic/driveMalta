@@ -8,6 +8,7 @@ Overloading your vehicle can seriously affect the:
 4. Battery life
 5. Gearbox
 
+
 ###4488 - CARS14.2
 
 Who is responsible for making sure that a vehicle is not overloaded?
@@ -17,23 +18,26 @@ Who is responsible for making sure that a vehicle is not overloaded?
 3. The person who loaded the vehicle
 4. The owner of the items being carried
 
+
 ###4657 - CARS14.3
 
-Any load that is carried on a roof rack MUST be:
+Any load that is carried on a roof rack must be:
 
 1. **Securely fastened when driving**
 2. Covered with plastic sheeting
 3. As light as possible
 4. Carried only when strictly necessary
 
+
 ###4658 - CARS14.4
 
-A heavy load on your roof rack will MAINLY:
+A heavy load on your roof rack will mainly:
 
 1. Make the steering lighter
 2. Reduce the stopping distance
 3. Improve the road holding
 4. **Reduce stability**
+
 
 ###4659 - CARS14.5
 
