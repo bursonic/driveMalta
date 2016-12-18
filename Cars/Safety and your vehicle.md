@@ -1,15 +1,16 @@
 ###4250  - CARS3.1
 
-Before making a U - turn in the road you should always:
+Before making a u-turn in the road you should always:
 
 1. Select a higher gear than normal
 2. Signal so that other drivers can slow down
 3. **Look over your shoulder for final confirmation**
 4. Give another signal as well as using your indicators
 
+
 ###4564 - CARS3.2
 
-Which FOUR of these MUST be in good working order for your car to be safe and roadworthy?
+Which four of these must be in good working order for your car to be safe and roadworthy?
 
 1. Tempreture gauge
 2. **Indicators**
@@ -17,6 +18,7 @@ Which FOUR of these MUST be in good working order for your car to be safe and ro
 4. **Exhaust system**
 5. Oil warning light
 6. **Lights**
+
 
 ###4565 - CARS3.3
 
@@ -27,6 +29,17 @@ New petrol-engined cars have to be fitted with catalytic converters. The reason 
 3. Control exhaust noise levels
 4. **Reduce harmful exhaust emissions**
 
+
+###4251  - CARS3.4
+
+Which two are adversely affected if the tyres are under-inflated? 
+
+1. **Steering**
+2. **Braking**
+3. Parking 
+4. Changing gear 
+
+
 ###4566 - CARS3.5
 
 What can cause heavy or difficult steering?
@@ -36,6 +49,7 @@ What can cause heavy or difficult steering?
 3. Driving on mud
 4. **Under-inflated tyres**
 
+
 ###4567 - CARS3.6
 
 Your car is fitted with power assisted steering. This will make the steering seem:
@@ -44,42 +58,6 @@ Your car is fitted with power assisted steering. This will make the steering see
 2. Noisier
 3. Quieter
 4. Heavier
-
-###4568 - CARS3.10
-
-A police officer orders you to stop and finds you have a faulty tyre. Who is responsible for the tyre?
-
-1. Whoever issued the VRT certificate
-2. Whoever services the car
-3. **You the driver**
-4. The previous owner
-
-###4569 - CARS3.11
-
-The legal minimum depth of tread for car tyres over three quarters of its breadth is:
-
-1. 4mm
-2. **1.6mm**
-3. 2.5mm
-4. 1mm
-
-###4570 - CARS3.12
-
-Excessive or uneven wear in one or more tyres can be caused by faults in the:
-
-1. Exhaust system
-2. **Suspension**
-3. **Braking system**
-3. Gearbox
-
-###4251  - CARS3.4
-
-Which TWO are adversely affected if the tyres are under-inflated? 
-
-1. **Steering**
-2. **Braking**
-3. Parking 
-4. Changing gear 
 
 
 ###4252  - CARS3.7
@@ -111,6 +89,37 @@ Driving with under-inflated (low) tyres can affect: 
 2. **Braking** 
 3. **Fuel consumption**
 4. Engine temperatures
+
+
+###4568 - CARS3.10
+
+A police officer orders you to stop and finds you have a faulty tyre. Who is responsible for the tyre?
+
+1. Whoever issued the VRT certificate
+2. Whoever services the car
+3. **You the driver**
+4. The previous owner
+
+
+###4569 - CARS3.11
+
+The legal minimum depth of tread for car tyres over three quarters of its breadth is:
+
+1. 4 mm
+2. **1.6 mm**
+3. 2.5 mm
+4. 1 mm
+
+
+###4570 - CARS3.12
+
+Excessive or uneven wear in one or more tyres can be caused by faults in the:
+
+1. Exhaust system
+2. **Suspension**
+3. **Braking system**
+3. Gearbox
+
 
 ###4571 - CARS3.13
 
@@ -151,7 +160,7 @@ Your anti-lock brakes warning light stays on. You should:
 
 ###4255  - CARS3.18
 
-When MUST you use dipped lights during the day? 
+When must you use dipped lights during the day? 
 
 1. When parking
 2. Along narrow streets
@@ -211,8 +220,7 @@ Motor vehicles can harm the environment resulting in: 
 
 ###4258  - CARS3.28
 
-To reduce the damage your vehicle causes to the environment you 
-should: 
+To reduce the damage your vehicle causes to the environment you should: 
 
 1. Use busy routes
 2. **Plan well ahead**
@@ -233,7 +241,7 @@ You will help your environment if you: 
 
 ###4260  - CARS3.30
 
-To help the environment you should NOT: 
+To help the environment you should not: 
 
 1. Empty the boot of unnecessary weight 
 2. **Use your vehicle for very short journeys**
@@ -267,12 +275,65 @@ Which of the following will reduce fuel consumption? 
 
 ###4263  - CARS3.38
 
-You should NOT sound your horn: 
+You should not sound your horn: 
 
 1. Between 11.30 pm and 7 am in a built-up area 
 2. At any time in a built-up area 
 3. Between 10 pm and 6 am in a built-up area
 4. **Between 11.00 pm and 6 am in a built-up area**
+
+
+###4585 - CARS3.39
+
+If you cannot see clearly behind when reversing what should you do?
+
+1. Look in the nearside mirror
+2. Open the door and look behind
+3. Open your window to look behind
+4. **Ask someone to guide you**
+
+
+###4586 - CARS3.41
+
+A properly serviced car will give: You a refund on your road tax
+
+1. Lower insurance premiums
+2. **Cleaner exhaust emissions**
+3. **Better fuel economy**
+
+
+
+###4587 - CARS3.42
+
+When a roof rack is not in use it should be removed. Why?
+
+1. It will affect your braking
+2. It is illegal
+3. It will affect the suspension
+4. **It will waste fuel**
+
+
+
+###4588 - CARS3.43
+
+A roof rack that is fitted to your car will:
+
+1. Make your car go faster
+2. Improve the road handling
+3. Reduce fuel consumption
+4. **Increase fuel consumption**
+
+
+
+###4589 - CARS3.44
+
+To reduce the volume of cars on the roads you could:
+
+1. **Walk or cycle on short journeys**
+2. **Share a car when possible**
+3. **Use public transport more often**
+4. Use a car with a smaller engine
+5. Travel by car at all times
 
 
 ###4264  - CARS3.45
@@ -281,7 +342,7 @@ In some residential roads you will find a speed limit of: 
 
 1. 80 kph 
 2. 60 kph 
-3. **35kph** 
+3. **35 kph** 
 4. 50 kph 
 
 
@@ -304,54 +365,10 @@ You enter a road where there are road humps. You should: 
 3. Always keep to the maximum legal speed 
 4. Accelerate quickly between each one 
 
-###4585 - CARS3.39
-
-If you cannot see clearly behind when reversing what should you do?
-
-1. Look in the nearside mirror
-2. Open the door and look behind
-3. Open your window to look behind
-4. **Ask someone to guide you**
-
-###4586 - CARS3.41
-
-A properly serviced car will give: You a refund on your road tax
-
-1. Lower insurance premiums
-2. **Cleaner exhaust emissions**
-3. **Better fuel economy**
-
-###4587 - CARS3.42
-
-When a roof rack is not in use it should be removed. Why?
-
-1. It will affect your braking
-2. It is illegal
-3. It will affect the suspension
-4. **It will waste fuel**
-
-###4588 - CARS3.43
-
-A roof rack that is fitted to your car will:
-
-1. Make your car go faster
-2. Improve the road handling
-3. Reduce fuel consumption
-4. **Increase fuel consumption**
-
-###4589 - CARS3.44
-
-To reduce the volume of cars on the roads you could:
-
-1. **Walk or cycle on short journeys**
-2. **Share a car when possible**
-3. **Use public transport more often**
-4. Use a car with a smaller engine
-5. Travel by car at all times
 
 ###4590 - CARS3.48
 
-For which TWO of these should you use hazard-warning lights?
+For which two of these should you use hazard-warning lights?
 
 1. **When your vehicle has broken down and is causing an obstruction**
 2. When warning oncoming traffic that you intend to stop
