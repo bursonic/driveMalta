@@ -186,18 +186,18 @@ If you are following a car driven by an elderly driver you should: 
 Which sign tells you that pedestrians may be walking in the road as there is no pavement? 
 
 1. ![correct](images/CARS_E-688.png)
-2. ![](images/CARS_E-763.png) 
+2. ![](images/CARS_E-763.jpg) 
 3. ![](images/CARS_E-687.png) 
-4. ![](images/CARS_E-765.png)
+4. ![](images/CARS_E-765.jpg)
 
 
 ###4324  - CARS6.21
 
 Which sign means there maybe elderly pedestrians likely to cross the road? 
 
-1. ![correct](images/CARS_E-763.png)
+1. ![correct](images/CARS_E-763.jpg)
 2. ![](images/CARS_E-687.png) 
-3. ![](images/CARS_E-765.png) 
+3. ![](images/CARS_E-765.jpg) 
 4. ![](images/CARS_E-688.png) 
 
 

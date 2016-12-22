@@ -146,7 +146,7 @@ Using a mobile phone while you are driving
 
 The white arrow in the diagram means that you should not plan to:
 
-![](images/CARS_E-2287.png)
+![](images/CARS_E-2287.jpg)
 
 1. Turn left
 2. Turn right
@@ -158,7 +158,7 @@ The white arrow in the diagram means that you should not plan to:
 
 The road marking in the diagram warns:
 
-![](images/CARS_E-2287.png)
+![](images/CARS_E-2287.jpg)
 
 1. Drivers that it is safe to overtake
 2. Overtaking drivers there is a bend to the left

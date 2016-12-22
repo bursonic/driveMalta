@@ -12,7 +12,7 @@ You may drive over a footpath:
 
 What is the meaning of this sign?
 
-![](images/CARS_E-2278.png)
+![](images/CARS_E-2278.jpg)
 
 1. No entry to vehicular traffic
 2. No waiting on the carriageway
@@ -56,7 +56,7 @@ You see this sign ahead of you. It means:
 
 What does a speed limit sign likethis mean?
 
-![](images/CARS_E-1907.png)
+![](images/CARS_E-1907.jpg)
 
 1. The speed shown allows for various road and weather conditions
 2. The speed shown is the advised maximum
@@ -164,7 +164,7 @@ In which two places must you not park?
 
 What is the meaning of this sign?
 
-![](images/CARS_E-2003.png)
+![](images/CARS_E-2003.jpg)
 
 1. School crossing patrol
 2. **Waiting restrictions**
