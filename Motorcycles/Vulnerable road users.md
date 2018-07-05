@@ -15,7 +15,6 @@ You want to turn from a junction but your view is partly restricted by parked ve
 1.  Stop then move slowly forward until you have a clear view 
 2.  Move out quickly but be prepared to stop 
 3.  Sound your horn and pull out
-4. Version 3  – April 20 13   Page 40 of 53 
 
 
 ###7423 - BIKEH6.13
@@ -87,7 +86,6 @@ If you are following an elderly driver you should
 2.  Stay close behind 
 3.  Flash your lights 
 4.  Expect the driver to drive badly
-5. Version 3  – April 20 13   Page 41 of 53 
 
 
 ###7430 - BIKEH6.2
@@ -102,7 +100,7 @@ Which sign means that there may be people walking along the road?
 
 ###7431 - BIKEH6.20
 
-Which sign tells you that pedestrians may be walking in the road as there is no pavement?Version 3  – April 20 13   Page 42 of 53
+Which sign tells you that pedestrians may be walking in the road as there is no pavement?
 
 1. {picture}
 2. {picture}
@@ -168,7 +166,6 @@ If you are driving behind a cyclist and you wish to turn left. You should
 2.  Go around the cyclist 
 3.  Pull alongside the cyclist 
 4.  Overtake the cyclist before the junction
-5. Version 3  – April 20 13   Page 43 of 53 
 
 
 ###7438 - BIKEH6.29
@@ -249,7 +246,6 @@ Motorcyclists ride in day light with their headlights switched on because
 2.  There are pot holes in the road 
 3.  There is a speed camera ahead 
 4.  It is legal requirement
-5. Version 3  – April 20 13   Page 44 of 53 
 
 
 ###7448 - BIKEH6.42
@@ -332,7 +328,6 @@ An injured motorcyclist is lying unconscious in the road. You should
 2.  Move the person off the road 
 3.  Remove the safety helmet 
 4.  Seek medical assistance
-5. Version 3  – April 20 13   Page 45 of 53 
 
 
 ###7456 - BIKEH6.51
@@ -413,7 +408,6 @@ Which age group is most likely to be involved in road accidents?
 2.  55-year-olds and over 
 3.  36 to 45-year-old 
 4.  18 to 25-year-old
-5. Version 3  – April 20 13   Page 46 of 53 
 
 
 ###7466 - BIKEH6.61

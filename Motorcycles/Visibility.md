@@ -26,6 +26,5 @@ Why should you ride with your dipped headlight on in daylight
 2.  It means that you can ride faster 
 3.  So other vehicles will get out of your way 
 4.  So that is already on when it gets in the dark
-5. Version 3  – April 20 13   Page 25 of 53 
 
 

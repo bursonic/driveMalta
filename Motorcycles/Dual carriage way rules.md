@@ -36,7 +36,6 @@ When joining a dual carriageway you must always
 2.  Come to a stop before joining the dual carriageway 
 3.  Stop at the end of the acceleration lane 
 4.  Use the hard shoulder
-5. Version 3  – April 20 13   Page 53 of 53 
 
 
 ###7522 - BIKEH9.3

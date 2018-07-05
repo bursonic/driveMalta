@@ -57,7 +57,6 @@ You go to a social event and need to drive a short time after. What precautions 
 2.  Drink plenty of milk before drinking alcohol 
 3.  Drink plenty of coffee after drinking alcohol 
 4.  Avoid drinking alcohol on an empty stomach
-5. Version 3  – April 20 13   Page 37 of 53 
 
 
 ###7396 - BIKEH5.15
@@ -139,7 +138,6 @@ You are taking drugs that are likely to affect your driving. What should you do?
 2.  Drive only for short distances 
 3.  Only drive if accompanied by a full licence-holder 
 4.  Limit your driving to essential journeys
-5. Version 3  – April 20 13   Page 38 of 53 
 
 
 ###7405 - BIKEH5.23
@@ -221,7 +219,6 @@ You take the wrong route and find you are well into a one-way street. You should
 2.  Reverse out of the street 
 3.  Continue to the end of the one-way street 
 4.  Reverse into a drive way
-5. Version 3  – April 20 13   Page 39 of 53 
 
 
 ###7414 - BIKEH5.4

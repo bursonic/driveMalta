@@ -68,7 +68,6 @@ If you are at a junction with limited visibility you should
 2.  Be ready to move off quickly 
 3.  Creep forward looking to the left 
 4.  Creep forward looking to the right
-5. Version 3  – April 20 13   Page 35 of 53 
 
 
 ###7376 - BIKEH4.21
@@ -163,7 +162,6 @@ When driving in fog which of the following measures are correct?
 4.  Keep close to the car in front 
 5.  Allow more time for your journey 
 6.  Use headlights on full beam
-7. Version 3  – April 20 13   Page 36 of 53 
 
 
 ###7388 - BIKEH4.8

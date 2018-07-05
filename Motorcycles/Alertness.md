@@ -86,7 +86,6 @@ You are driving along a narrow country road. When passing the cyclist you should
 2.  Slowly leaving plenty of room 
 3.  Quickly leaving plenty of room 
 4.  Slowly sounding the horn as you pass
-5. Version 3  – April 20 13   Page 3 of 53 
 
 
 ###7134 - BIKEH1.19
@@ -166,8 +165,7 @@ To overtake safely which one of the following applies?
 1.  Steer around the vehicle sharply 
 2.  Get in close behind before you move out 
 3.  Cut back in sharply when you pass the vehicle 
-4.  Check the speed and position of the vehicle which is being overtakenVersion 3  – April 20 13   Page 4 of 53 
-
+4.  Check the speed and position of the vehicle which is being overtaken
 
 ###7142 - BIKEH1.3
 

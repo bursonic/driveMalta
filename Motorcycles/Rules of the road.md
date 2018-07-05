@@ -18,7 +18,6 @@ Which three of the following are most likely to take an unusual course at rounda
 4.  Small cars 
 5.  Delivery vans 
 6.  Bread vans
-7. Version 3  – April 20 13   Page 5 of 53 
 
 
 ###7151 - BIKEH10.11
@@ -102,7 +101,6 @@ You are driving at night with full-beam headlights on. A vehicle is overtaking y
 2.  Only if the other driver dips his headlights 
 3.  Before the vehicles starts to pass you 
 4.  Some time after the vehicles has passed you
-5. Version 3  – April 20 13   Page 6 of 53 
 
 
 ###7160 - BIKEH10.2
@@ -185,7 +183,6 @@ When going straight ahead at a roundabout you should
 2.  Indicate left when approaching the roundabout 
 3.  Indicate right when approaching the roundabout 
 4.  Not indicate at any time
-5. Version 3  – April 20 13   Page 7 of 53 
 
 
 ###7168 - BIKEH10.27
@@ -266,7 +263,6 @@ While driving you intend to turn left into a minor road. On the approach you sho
 2.  Swing out wide just before turning 
 3.  Keep in the middle of the road 
 4.  Keep just left to the middle of the road
-5. Version 3  – April 20 13   Page 8 of 53 
 
 
 ###7176 - BIKEH10.34
@@ -348,7 +344,6 @@ What is the meaning of a white sign, showing a bold black number 30,  in a red c
 2.  The minimum speed limit ahead is 30 kph 
 3.  You are leaving a 30 kph speed limit area 
 4.  You can drive at an average speed of 30 kph
-5. Version 3  – April 20 13   Page 9 of 53 
 
 
 ###7186 - BIKEH10.6

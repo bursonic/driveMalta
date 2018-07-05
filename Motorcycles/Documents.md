@@ -46,7 +46,6 @@ Which of the following documents shows the number of passengers that your vehicl
 2.  VRT certificate 
 3.  Insurance 
 4.  Driving licence
-5. Version 3  – April 20 13   Page 21 of 53 
 
 
 ###7269 - BIKEH12.4

@@ -77,7 +77,6 @@ You are following a vehicle on a wet and slippery road. You should leave a time 
 2.  Two seconds 
 3.  One second 
 4.  Four seconds
-5. Version 3  – April 20 13   Page 27 of 53 
 
 
 ###7306 - BIKEH2.18
@@ -158,7 +157,6 @@ You are approaching a pelican crossing. The amber light is showing. You MUST
 2.  Stop because the light will turn red even if the crossing is clear 
 3.  Give way to pedestrians who are crossing 
 4.  Stop even when no body is crossing
-5. Version 3  – April 20 13   Page 28 of 53 
 
 
 ###7317 - BIKEH2.30
@@ -252,7 +250,6 @@ When you are overtaking a horse and rider you should
 2.  Flash your headlights 
 3.  Go past as quickly as possible 
 4.  Sound your horn
-5. Version 3  – April 20 13   Page 29 of 53 
 
 
 ###7327 - BIKEH2.4

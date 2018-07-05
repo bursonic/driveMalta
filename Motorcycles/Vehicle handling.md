@@ -27,7 +27,6 @@ You are riding towards a gravel road surface. You should
 2.  Accelerate 
 3.  Reduce the speed 
 4.  Stop suddenly
-5. Version 3  – April 20 13   Page 49 of 53 
 
 
 ###7490 - BIKEH8.12
@@ -119,7 +118,6 @@ What is the main reason why coasting downhill is dangerous or wrong?
 2.  Fuel consumption will be higher 
 3.  You have less control of the motorcycle 
 4.  It puts less tyre grip on the road
-5. Version 3  – April 20 13   Page 50 of 53 
 
 
 ###7499 - BIKEH8.22
@@ -211,7 +209,6 @@ You are on a narrow road at night. A slower-moving vehicle ahead signalled right
 2.  Signal right and sound your horn 
 3.  Flash your headlights before overtaking 
 4.  Overtake on the left
-5. Version 3  – April 20 13   Page 51 of 53 
 
 
 ###7509 - BIKEH8.35
@@ -273,7 +270,6 @@ You are approaching this junction. If you were the motorcyclist you should
 2.  Stay close to the kerb of the pavement 
 3.  Accelerate to pass the junction 
 4.  Stop and give way to the vehicle
-5. Version 3  – April 20 13   Page 52 of 53 
 
 
 ###7515 - BIKEH8.7

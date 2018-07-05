@@ -15,7 +15,7 @@ In view of eco driving, Which statement is correct
 1.  Using a low engine RPM will always consume more fuel at any speed 
 2.  Using a high engine RPM will always consume less fuel at any speed 
 3.  Using a high engine RPM will consume the same amount of fuel, as when using a low engine RPM 
-4.  Using a low engine RPM will always consume less fuel at any speedVersion 3  – April 20 13   Page 30 of 53 
+4.  Using a low engine RPM will always consume less fuel at any speed
 
 
 ###8789 - BIKEH20.3

@@ -56,7 +56,6 @@ Why is passing or overtaking a lorry more risky than passing a car?
 2.  The brakes of lorries are not as good 
 3.  Lorries may suddenly pull up 
 4.  Lorries are longer than cars
-5. Version 3  – April 20 13   Page 47 of 53 
 
 
 ###7474 - BIKEH7.15
@@ -137,7 +136,6 @@ You are waiting to emerge left from a minor road. A large vehicle is approaching
 2.  The large vehicle is difficult to steer in a straight line 
 3.  The large vehicle can easily hide an overtaking vehicle 
 4.  The large vehicle can turn suddenly
-5. Version 3  – April 20 13   Page 48 of 53 
 
 
 ###7482 - BIKEH7.5

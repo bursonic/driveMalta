@@ -36,7 +36,6 @@ What does this sign mean?
 2.  Clearway (no stopping) 
 3.  National speed limit applies 
 4.  Waiting permitted
-5. Version 3  – April 20 13   Page 10 of 53 
 
 
 ###7196 - BIKEH11.15
@@ -157,7 +156,6 @@ At a roundabout you should
 2.  Stop even when clear 
 3.  Give way to traffic from the other way 
 4.  Give way to traffic from the left
-5. Version 3  – April 20 13   Page 12 of 53 
 
 
 ###7208 - BIKEH11.26
@@ -218,7 +216,6 @@ What does this sign mean?
 2.  Ahead only 
 3.  Level crossing without gate 
 4.  Level crossing with a gate
-5. Version 3  – April 20 13   Page 13 of 53 
 
 
 ###7216 - BIKEH11.33
@@ -281,7 +278,6 @@ What does this sign mean?
 2.  Hump in the road 
 3.  Entrance to tunnel 
 4.  Soft verges
-5. Version 3  – April 20 13   Page 14 of 53 
 
 
 ###7225 - BIKEH11.41
@@ -342,7 +338,6 @@ You are about to overtake an other vehicle, when you see this ROAD MARKING. You 
 2.  Switch your headlights on before overtaking 
 3.  Move right to get a better view 
 4.  Overtake the other driver as quickly as possible
-5. Version 3  – April 20 13   Page 15 of 53 
 
 
 ###7231 - BIKEH11.47
@@ -393,7 +388,6 @@ What does this sign mean?
 2.  Telephone box ahead 
 3.  T-junction 
 4.  No through road
-5. Version 3  – April 20 13   Page 16 of 53 
 
 
 ###7236 - BIKEH11.51
@@ -454,7 +448,6 @@ A red traffic light means
 2.  Stop if you are able to brake safely 
 3.  You must stop and wait behind the stop line 
 4.  You should stop unless turning left
-5. Version 3  – April 20 13   Page 17 of 53 
 
 
 ###7242 - BIKEH11.57
@@ -515,7 +508,6 @@ What do these zigzag lines at pedestrian crossings mean?
 2.  Sounding horns is not allowed 
 3.  Slow down to 20kph 
 4.  Parking allowed only for a short time
-5. Version 3  – April 20 13   Page 18 of 53 
 
 
 ###7248 - BIKEH11.62
@@ -596,7 +588,6 @@ Why should you make sure that you have cancelled your indicators after turning?
 2.  To avoid misleading other road users 
 3.  To avoid dazzling other road users 
 4.  To avoid flattening the battery
-5. Version 3  – April 20 13   Page 19 of 53 
 
 
 ###7256 - BIKEH11.7
@@ -647,7 +638,6 @@ What is the maximum speed limit in a built up area unless indicated otherwise?
 2.  40kph 
 3.  50kph 
 4.  30 kph
-5. Version 3  – April 20 13   Page 20 of 53 
 
 
 ###7261 - BIKEH11.74

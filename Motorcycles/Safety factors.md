@@ -16,7 +16,6 @@ Where are you most likely to be affected by a side wind
 2.  On a busy town road 
 3.  On a straight road 
 4.  On an open stretch of road
-5. Version 3  – April 20 13   Page 26 of 53 
 
 
 ###8786 - BIKEH19.3

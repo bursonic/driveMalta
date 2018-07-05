@@ -38,7 +38,6 @@ Which of these makes a motorcyclist easier to be seen?
 4.  Use a fluorescent coloured helmet 
 5.  Wear a white helmet 
 6.  Wear a grey helmet
-7. Version 3  – April 20 13   Page 31 of 53 
 
 
 ###7339 - BIKEH3.13
@@ -124,7 +123,6 @@ As a road user which THREE can you do to help the environment?
 4.  Use the choke for as long as possible 
 5.  Drive on under-inflated tyres 
 6.  Walk when ever possible
-7. Version 3  – April 20 13   Page 32 of 53 
 
 
 ###7348 - BIKEH3.27
@@ -213,7 +211,6 @@ To avoid spilling of fuel, you should make sure that
 2.  You check that your fuel gauge is working 
 3.  You have used a self locking filler cap 
 4.  Your tank is only 3/4 full
-5. Version 3  – April 20 13   Page 33 of 53 
 
 
 ###7356 - BIKEH3.38
@@ -294,7 +291,6 @@ Your motorcycle is equipped with tube tyres from the factory, When you replace a
 2.  Replace the tube after 6,000 kilometers 
 3.  Replace the tube only, if the rear tyre is to be replaced 
 4.  Replace the tube, every time you replace a tyre
-5. Version 3  – April 20 13   Page 34 of 53 
 
 
 ###7364 - BIKEH3.7

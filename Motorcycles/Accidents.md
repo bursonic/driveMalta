@@ -49,7 +49,6 @@ You arrive at the scene of a motorcycle accident. No other vehicle is involved. 
 2.  Warn other traffic 
 3.  Clear the road of debris 
 4.  Move the rider out of the road
-5. Version 3  – April 20 13   Page 22 of 53 
 
 
 ###7278 - BIKEH13.14
@@ -143,7 +142,6 @@ At an accident you suspect a casualty has back injuries. The area is safe. You s
 2.  Not move them 
 3.  Raise their legs 
 4.  Offer them a drink
-5. Version 3  – April 20 13   Page 23 of 53 
 
 
 ###7287 - BIKEH13.25
@@ -240,6 +238,4 @@ At an accident someone is unconscious. Your main priorities should be to
 2.  Sweep up the broken glass 
 3.  Make sure they are breathing 
 4.  Check the airway is clear
-5. Version 3  – April 20 13   Page 24 of 53 
-
 
