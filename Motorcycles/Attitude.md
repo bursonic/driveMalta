@@ -5,7 +5,7 @@ A pelican crossing that crosses the road in a STRAIGHT line and has a central tr
 1.  Two crossings during darkness 
 2.  Two separate crossings 
 3.  One crossing in daylight only 
-4.  One complete crossing 
+4.  **One complete crossing** 
 
 
 ###7299 - BIKEH2.10
@@ -14,7 +14,7 @@ A two - second gap between yourself and the car in front is usually sufficient w
 
 1.  Foggy 
 2.  Damp 
-3.  Good 
+3.  **Good** 
 4.  Wet 
 
 
@@ -25,7 +25,7 @@ When you are riding in heavy traffic a two-second gap may be enough only when co
 1.  Foggy 
 2.  Damp 
 3.  Wet 
-4.  Dry 
+4.  **Dry** 
 
 
 ###7301 - BIKEH2.12
@@ -34,7 +34,7 @@ What is the meaning of Tailgating?
 
 1.  Using the rear door of a hatchback car 
 2.  Reversing into a parking space 
-3.  Following another vehicle too closely 
+3.  **Following another vehicle too closely** 
 4.  Driving with rear fog lights on 
 
 
@@ -42,21 +42,25 @@ What is the meaning of Tailgating?
 
 Following this vehicle too closely is unwise because
 
+![](images/BIKES_E_long-vehicle.jpg)
+
 1.  Your engine will overheat 
 2.  Your view ahead is increased 
 3.  Your brakes will overheat 
-4.  The driver cannot see you in his mirrors 
-5.  Your view ahead is reduced 
+4.  **The driver cannot see you in his mirrors** 
+5.  **Your view ahead is reduced** 
 
 
 ###7303 - BIKEH2.15
 
 You are following this truck. You should keep well back from it to
 
+![](images/BIKES_E_long-vehicle.jpg)
+
 1.  Hurry through the traffic lights if they change 
 2.  Prevent traffic behind you from overtaking 
 3.  Stop following traffic from rushing through the junction 
-4.  Give you a good view of the road ahead 
+4.  **Give you a good view of the road ahead** 
 
 
 ###7304 - BIKEH2.16
@@ -66,7 +70,7 @@ You are driving behind a large vehicle. It signals left but steers to the right.
 1.  Hold your speed and sound your horn 
 2.  Overtake on the right of it 
 3.  Drive on keeping to the left 
-4.  Slow down and let the vehicle turn 
+4.  **Slow down and let the vehicle turn** 
 
 
 ###7305 - BIKEH2.17
@@ -76,15 +80,17 @@ You are following a vehicle on a wet and slippery road. You should leave a time 
 1.  Three seconds 
 2.  Two seconds 
 3.  One second 
-4.  Four seconds
+4.  **Four seconds**
 
 
 ###7306 - BIKEH2.18
 
 You are driving along this road. The red van cuts in close in front of you. What should you do?
 
+![](images/BIKES_E_case-van-enters.jpg)
+
 1.  Flash your headlights 
-2.  Drop back to leave the correct separation distance 
+2.  **Drop back to leave the correct separation distance** 
 3.  Use your horn 
 4.  Accelerate to get closer to the red van 
 
@@ -94,7 +100,7 @@ You are driving along this road. The red van cuts in close in front of you. What
 You are in a line of traffic. The driver behind you is following very closely. What action should you take?
 
 1.  Move over to a position just left of the centre line of the road 
-2.  Slow down gradually increasing the gap between you and the vehicle in front 
+2.  **Slow down gradually increasing the gap between you and the vehicle in front** 
 3.  Signal left and wave the following driver past 
 4.  Ignore the following driver and continue to drive within the speed limit 
 
@@ -105,7 +111,7 @@ When at a pelican crossing the amber light means you MUST
 
 1.  Keep on going 
 2.  Give way to pedestrians waiting to cross 
-3.  Stop because the light will turn red 
+3.  **Stop because the light will turn red** 
 4.  Keep on driving since no pedestrians are there to cross 
 
 
@@ -116,7 +122,7 @@ You are driving at the legal speed limit. A vehicle comes up quickly behind flas
 1.  Maintain your speed to prevent the vehicle from overtaking 
 2.  Touch the brakes to show your brake lights 
 3.  Accelerate to make a gap behind you 
-4.  Allow the vehicle to overtake 
+4.  **Allow the vehicle to overtake** 
 
 
 ###7312 - BIKEH2.23
@@ -124,7 +130,7 @@ You are driving at the legal speed limit. A vehicle comes up quickly behind flas
 You are driving at the legal speed limit. A vehicle behind tries to overtake. Should you try to prevent the driver from overtaking?
 
 1.  Yes, because the other driver is breaking the law 
-2.  No, at any time 
+2.  **No, at any time** 
 3.  Yes, because the other driver is acting dangerously 
 4.  Yes, as long as it is safe to do so 
 
@@ -134,7 +140,7 @@ You are driving at the legal speed limit. A vehicle behind tries to overtake. Sh
 You are driving within the road speed limit. The driver behind is going to overtake you. You should
 
 1.  Accelerate to get away from the driver behind you 
-2.  Allow the driver behind to overtake 
+2.  **Allow the driver behind to overtake** 
 3.  Wave the driver behind you to overtake when it is safe 
 4.  Move closer to the car ahead of you, so the driver behind has no room to overtake 
 
@@ -144,7 +150,7 @@ You are driving within the road speed limit. The driver behind is going to overt
 A long heavy lorry is taking a long time to overtake. What should you do?
 
 1.  Speed up 
-2.  Slow down 
+2.  **Slow down** 
 3.  Hold your speed 
 4.  Change direction 
 
@@ -154,7 +160,7 @@ A long heavy lorry is taking a long time to overtake. What should you do?
 You are approaching a pelican crossing. The amber light is showing. You MUST
 
 1.  Encourage pedestrians to cross 
-2.  Stop because the light will turn red even if the crossing is clear 
+2.  **Stop because the light will turn red even if the crossing is clear** 
 3.  Give way to pedestrians who are crossing 
 4.  Stop even when no body is crossing
 
@@ -164,8 +170,8 @@ You are approaching a pelican crossing. The amber light is showing. You MUST
 Which of the following cars will use blue flashing beacons?
 
 1.  Doctor on call 
-2.  Police patrol 
-3.  Ambulance 
+2.  **Police patrol** 
+3.  **Ambulance** 
 4.  Breakdown recovery 
 5.  Motorway maintenance 
 
@@ -174,7 +180,7 @@ Which of the following cars will use blue flashing beacons?
 
 When being followed by an ambulance showing a flashing blue light you should
 
-1.  Pull over as soon as safely possible to let it pass 
+1.  **Pull over as soon as safely possible to let it pass** 
 2.  Brake harshly and immediately stop in the road 
 3.  Maintain your speed and course 
 4.  Accelerate fast to get away from it 
@@ -184,8 +190,10 @@ When being followed by an ambulance showing a flashing blue light you should
 
 A bus has stopped at a bus stop ahead of you. Its right-hand indicator is flashing. You should
 
+![](images/BIKES_E_case-bus-on-stop.jpg)
+
 1.  Slow down and then sound your horn 
-2.  Slow down and give way if it is safe to do so 
+2.  **Slow down and give way if it is safe to do so** 
 3.  Sound your horn and keep going 
 4.  Flash your headlights and slow down 
 
@@ -197,14 +205,14 @@ You should ONLY flash your headlights to other roads users
 1.  To tell the that you have right of way 
 2.  To show that you are about to reverse 
 3.  To show that you are giving way 
-4.  To let them know that you are there 
+4.  **To let them know that you are there** 
 
 
 ###7321 - BIKEH2.34
 
 Why should you use your horn?
 
-1.  To alert others to your presence 
+1.  **To alert others to your presence** 
 2.  To signal your annoyance 
 3.  To greet other road users 
 4.  To allow you right of way 
@@ -215,7 +223,7 @@ Why should you use your horn?
 A car pulls out in front of you at a junction. What should you do?
 
 1.  Accelerate past it immediately 
-2.  Slow down and be ready to stop 
+2.  **Slow down and be ready to stop** 
 3.  Flash your headlights and drive up close behind 
 4.  Swerve past it and blow your horn 
 
@@ -226,7 +234,7 @@ You wish to turn right ahead. Why should you take up the proper position in good
 
 1.  To allow drivers to pass you on the right 
 2.  To give a better view into the road that you're joining 
-3.  To help other road users know what you intend to do 
+3.  **To help other road users know what you intend to do** 
 4.  To allow other drivers to pull out in front of you 
 
 
@@ -235,8 +243,8 @@ You wish to turn right ahead. Why should you take up the proper position in good
 You are driving along a narrow country road. A horse and rider are approaching. What should you do?
 
 1.  Rev your engine 
-2.  Give plenty of room 
-3.  Drive past slowly 
+2.  **Give plenty of room** 
+3.  **Drive past slowly** 
 4.  Flash your headlights 
 5.  Sound your horn 
 6.  Increase your speed 
@@ -246,7 +254,7 @@ You are driving along a narrow country road. A horse and rider are approaching. 
 
 When you are overtaking a horse and rider you should
 
-1.  Go past slowly and carefully 
+1.  **Go past slowly and carefully** 
 2.  Flash your headlights 
 3.  Go past as quickly as possible 
 4.  Sound your horn
