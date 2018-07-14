@@ -340,9 +340,9 @@ Which of these signs means that the road will narrow on both sides?
 
 ###7227 - BIKEH11.43
 
-![](images/BIKES_E_dead-end.jpg)
-
 What does this sign mean?
+
+![](images/BIKES_E_dead-end.jpg)
 
 1.  End of dual carriageway 
 2.  End of a bridge 
