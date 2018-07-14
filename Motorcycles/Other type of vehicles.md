@@ -143,7 +143,7 @@ You are waiting to emerge left from a minor road. A large vehicle is approaching
 You are driving behind a long articulated vehicle (trailer). It is going to turn left into a narrow road. What action should you take?
 
 1.  Overtake quickly before the lorry moves out 
-2.  Be prepared to stop behind it 
+2.  **Be prepared to stop behind it** 
 3.  Pass on the left as the vehicle moves out 
 4.  Move out and overtake on the offside 
 
@@ -153,7 +153,7 @@ You are driving behind a long articulated vehicle (trailer). It is going to turn
 You are driving behind a long vehicle. It approaches a crossroads and signals left but moves out to the right. You should
 
 1.  Overtake as it starts to slow down 
-2.  Stay well back and give it room 
+2.  **Stay well back and give it room** 
 3.  Assume the signal is wrong and it is really turning right 
 4.  Get closer in order to pass it quickly 
 
@@ -163,7 +163,7 @@ You are driving behind a long vehicle. It approaches a crossroads and signals le
 You are driving behind a long vehicle approaching a crossroads. The driver signals right but moves close to the left-hand kerb. What should you do?
 
 1.  Overtake on the right-hand side 
-2.  Wait behind the long vehicle 
+2.  **Wait behind the long vehicle** 
 3.  Report the driver to the police 
 4.  Warn the driver of the wrong signal 
 
@@ -175,7 +175,7 @@ You are approaching a small roundabout. The long vehicle in front is signalling 
 1.  Follow the same course as the lorry 
 2.  Overtake on the left 
 3.  Sound your horn 
-4.  Keep well back 
+4.  **Keep well back** 
 
 
 ###7486 - BIKEH7.9
@@ -183,7 +183,7 @@ You are approaching a small roundabout. The long vehicle in front is signalling 
 You keep well back while waiting to overtake a large lorry. Another car fills the gap. You should
 
 1.  Start to overtake 
-2.  Drop back further 
+2.  **Drop back further** 
 3.  Flash your headlights 
 4.  Sound your horn 
 

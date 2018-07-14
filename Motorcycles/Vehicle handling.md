@@ -3,7 +3,7 @@
 When you are stationary on your motorcycle, your position should be
 
 1.  Slightly touching the road surface with your toes 
-2.  Both feet on the road surface 
+2.  **Both feet on the road surface** 
 3.  Lower the centre stand 
 4.  Stretch to reach the hand switches 
 
@@ -13,10 +13,10 @@ When you are stationary on your motorcycle, your position should be
 Which THREE of the following are a likely causes of a skid?
 
 1.  Stopping very slowly 
-2.  Bend excessively when turning 
+2.  **Bend excessively when turning** 
 3.  Keeping your body straight when turning 
-4.  Sudden braking 
-5.  Sudden change of direction 
+4.  **Sudden braking** 
+5.  **Sudden change of direction** 
 
 
 ###7489 - BIKEH8.11
@@ -25,7 +25,7 @@ You are riding towards a gravel road surface. You should
 
 1.  Drive normally 
 2.  Accelerate 
-3.  Reduce the speed 
+3.  **Reduce the speed** 
 4.  Stop suddenly
 
 
@@ -33,7 +33,7 @@ You are riding towards a gravel road surface. You should
 
 When riding you wear protective clothing
 
-1.  Always 
+1.  **Always** 
 2.  In open and busy roads 
 3.  In long journey 
 4.  In bad weather 
@@ -43,8 +43,8 @@ When riding you wear protective clothing
 
 You have to ride in fog. Which two important factors you should do before you start your journey?
 
-1.  Check that the lights are working properly 
-2.  Make sure you have a clean visor 
+1.  **Check that the lights are working properly** 
+2.  **Make sure you have a clean visor** 
 3.  Check the battery 
 4.  Take something warm with you 
 
@@ -56,7 +56,7 @@ The best place to park your motorcycle is
 1.  On hot tarmac 
 2.  On bumpy road 
 3.  On grass 
-4.  On sound and level ground 
+4.  **On sound and level ground** 
 
 
 ###7493 - BIKEH8.15
@@ -65,7 +65,7 @@ When riding in windy conditions, you have to
 
 1.  Ride close to large vehicle 
 2.  Ride at high speed 
-3.  Ride at low speed 
+3.  **Ride at low speed** 
 4.  Stretch forward to the handlebar 
 
 
@@ -74,7 +74,7 @@ When riding in windy conditions, you have to
 In normal driving your position should be
 
 1.  About one foot off the pavement 
-2.  In the centre of your lane 
+2.  **In the centre of your lane** 
 3.  On the right of your lane 
 4.  In the centre of the road 
 
@@ -83,9 +83,9 @@ In normal driving your position should be
 
 During night driving you must
 
-1.  Wear reflective clothing 
+1.  **Wear reflective clothing** 
 2.  Ride close to the vehicle in front 
-3.  Keep goggles or visor clean 
+3.  **Keep goggles or visor clean** 
 4.  Ride just left of the centre 
 5.  Use high beam (bright) 
 
@@ -96,7 +96,7 @@ Your motorcycle is parked in a two way carriage-way. You should mount from the
 
 1.  Right and press the rear brake 
 2.  Left without pressing any brakes 
-3.  Left and press the front brake 
+3.  **Left and press the front brake** 
 4.  Right without pressing any brakes 
 
 
@@ -104,9 +104,9 @@ Your motorcycle is parked in a two way carriage-way. You should mount from the
 
 How should you leave your scooter when you park for a short period in a town centre?
 
-1.  Well firm with the fuel cap secured 
-2.  On a sound and level surface 
-3.  On the centre stand in available 
+1.  **Well firm with the fuel cap secured** 
+2.  **On a sound and level surface** 
+3.  **On the centre stand in available** 
 4.  On a wide pavement only 
 
 
@@ -116,7 +116,7 @@ What is the main reason why coasting downhill is dangerous or wrong?
 
 1.  It damages the gearbox 
 2.  Fuel consumption will be higher 
-3.  You have less control of the motorcycle 
+3.  **You have less control of the motorcycle** 
 4.  It puts less tyre grip on the road
 
 
@@ -124,7 +124,7 @@ What is the main reason why coasting downhill is dangerous or wrong?
 
 You are following other vehicles in fog with your lights on. How else can you reduce the chances of being involved in an accident?
 
-1.  Reduce your speed and increase the gap 
+1.  **Reduce your speed and increase the gap** 
 2.  Keep together with the faster vehicles 
 3.  Use your main beam instead of dipped headlights 
 4.  Keep close to the vehicle in front 
@@ -134,7 +134,7 @@ You are following other vehicles in fog with your lights on. How else can you re
 
 Why should you always reduce your speed when driving in fog?
 
-1.  Because it is more difficult to see events ahead 
+1.  **Because it is more difficult to see events ahead** 
 2.  Because the engine's colder 
 3.  Because you could be dazzled by other people's fog lights 
 4.  Because the brakes do not work as well 
@@ -145,7 +145,7 @@ Why should you always reduce your speed when driving in fog?
 You are driving in fog. Why should you keep well back from the vehicle in front?
 
 1.  In case its brake lights dazzle you 
-2.  In case it stops suddenly 
+2.  **In case it stops suddenly** 
 3.  In case its fog lights dazzle you 
 4.  In case it changes direction suddenly 
 
@@ -157,7 +157,7 @@ Why is coasting wrong or dangerous?
 1.  The engine will run faster 
 2.  It will make the engine stall 
 3.  It will cause the motorcycle to skid 
-4.  There is no engine braking 
+4.  **There is no engine braking** 
 
 
 ###7504 - BIKEH8.30
@@ -165,7 +165,7 @@ Why is coasting wrong or dangerous?
 Which ONE of the following are correct? When overtaking at night you should
 
 1.  Beware of the bends in the road ahead 
-2.  Be careful because you can see less 
+2.  **Be careful because you can see less** 
 3.  Put headlights on full beam 
 4.  Sound your horn twice before moving out 
 5.  Wait until a bend so that you can see the oncoming headlights 
@@ -175,7 +175,7 @@ Which ONE of the following are correct? When overtaking at night you should
 
 You are overtaking a car at night. You must be sure that
 
-1.  You do not dazzle other road users 
+1.  **You do not dazzle other road users** 
 2.  You have switched your lights to full beam before overtaking 
 3.  Your rear fog lights are switched on 
 4.  You flash your headlamps before overtaking 
@@ -185,7 +185,7 @@ You are overtaking a car at night. You must be sure that
 
 At night you are dazzled by headlights coming towards you. You should
 
-1.  Slow down or stop safely 
+1.  **Slow down or stop safely** 
 2.  Put your hand over your eyes 
 3.  Switch on your main beam headlights 
 4.  Sound your horn 
@@ -198,14 +198,14 @@ How should you brake?
 1.  By first applying the rear brake then the front 
 2.  When turning or taking a bend 
 3.  By applying the clutch before the brake 
-4.  When the motorcycle is vertical and driven straight 
+4.  **When the motorcycle is vertical and driven straight** 
 
 
 ###7508 - BIKEH8.34
 
 You are on a narrow road at night. A slower-moving vehicle ahead signalled right for some time. What should you do?
 
-1.  Wait for the signal to be cancelled before overtaking 
+1.  **Wait for the signal to be cancelled before overtaking** 
 2.  Signal right and sound your horn 
 3.  Flash your headlights before overtaking 
 4.  Overtake on the left
@@ -215,8 +215,8 @@ You are on a narrow road at night. A slower-moving vehicle ahead signalled right
 
 Which TWO are correct? The passing places on a single-track road are
 
-1.  To pull into if the car behind wants to overtake 
-2.  To pull into if an oncoming vehicle wants to proceed 
+1.  **To pull into if the car behind wants to overtake** 
+2.  **To pull into if an oncoming vehicle wants to proceed** 
 3.  To turn around in if you are lost 
 4.  For stopping and checking your route 
 5.  For taking a rest from driving 
@@ -226,7 +226,7 @@ Which TWO are correct? The passing places on a single-track road are
 
 You see a vehicle coming towards you on a single-track road. You should
 
-1.  Stop at a passing place 
+1.  **Stop at a passing place** 
 2.  Put on your hazard warning lights 
 3.  Do an emergency stop 
 4.  Turn back to the main road 
@@ -236,10 +236,12 @@ You see a vehicle coming towards you on a single-track road. You should
 
 Which of these plates may appear with this road sign?
 
-1. {picture}
-2. {picture}
-3. {picture}
-4. {picture}
+![](images/BIKES_E_hump.jpg)
+
+1. ![correct](images/BIKES_E_humps-half-mile.jpg)
+2. ![](images/BIKES_E_hump-bridge.jpg)
+3. ![](images/BIKES_E_low-bridge.jpg)
+4. ![](images/BIKES_E_soft-verge.jpg)
 
 
 ###7512 - BIKEH8.4
@@ -248,7 +250,7 @@ When you apply the brakes for a normal stop, you should
 
 1.  Apply the front brake only 
 2.  Apply the rear brake 
-3.  Apply both brakes smoothly 
+3.  **Apply both brakes smoothly** 
 4.  Apply one of the brakes smoothly 
 
 
@@ -256,7 +258,7 @@ When you apply the brakes for a normal stop, you should
 
 You are approaching a bend at a high speed. You should begin to brake.
 
-1.  Before the bend 
+1.  **Before the bend** 
 2.  After changing gears 
 3.  After the bend 
 4.  On the bend 
@@ -266,7 +268,9 @@ You are approaching a bend at a high speed. You should begin to brake.
 
 You are approaching this junction. If you were the motorcyclist you should
 
-1.  Begin to slow down 
+![](images/BIKES_E_case-junction.jpg)
+
+1.  **Begin to slow down** 
 2.  Stay close to the kerb of the pavement 
 3.  Accelerate to pass the junction 
 4.  Stop and give way to the vehicle
@@ -276,7 +280,7 @@ You are approaching this junction. If you were the motorcyclist you should
 
 As a motorcyclist, what can you do to ensure a safe ride?
 
-1.  Anticipate the actions of other road users 
+1.  **Anticipate the actions of other road users** 
 2.  Exceed the speed limit 
 3.  Keep close to the kerb of the pavement 
 4.  Keep well under the speed limit 
@@ -286,11 +290,11 @@ As a motorcyclist, what can you do to ensure a safe ride?
 
 In which FOUR of these situations may you overtake another vehicle on the inside or the left?
 
-1.  When the vehicle in front is to turn right 
-2.  When you are in a one-way street 
-3.  In slow-moving traffic queues when traffic in the right-hand lane is moving more slowly 
+1.  **When the vehicle in front is to turn right** 
+2.  **When you are in a one-way street** 
+3.  **In slow-moving traffic queues when traffic in the right-hand lane is moving more slowly** 
 4.  When a slower vehicle is in the right-hand lane of a dual carriageway 
-5.  When approaching a motorway slip road where you will be turning off 
+5.  **When approaching a motorway slip road where you will be turning off**
 
 
 ###7517 - BIKEH8.9
@@ -300,6 +304,6 @@ You suddenly  have to stop and your motorcycle starts to skid. You should
 1.  Keep braking and lower the gears 
 2.  Apply the brakes to have more grip on the road 
 3.  Put to neutral and apply the front brake 
-4.  Release and re-apply the brakes 
+4.  **Release and re-apply the brakes** 
 
 
