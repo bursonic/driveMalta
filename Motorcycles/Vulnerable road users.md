@@ -94,37 +94,37 @@ If you are following an elderly driver you should
 
 Which sign means that there may be people walking along the road?
 
-1. {picture}
-2. {picture}
-3. {picture}
-4. {picture}
+1. ![correct](images/BIKES_E_people_walking.jpg)
+2. ![](images/BIKES_E_elderly_crossing.jpg)
+3. ![](images/BIKES_E_zebra_approach.jpg)
+4. ![](images/BIKES_E_children_crossing.jpg)
 
 
 ###7431 - BIKEH6.20
 
 Which sign tells you that pedestrians may be walking in the road as there is no pavement?
 
-1. {picture}
-2. {picture}
-3. {picture}
-4. {picture}
+1. ![](images/BIKES_E_zebra_approach.jpg)
+2. ![correct](images/BIKES_E_people_walking.jpg)
+3. ![](images/BIKES_E_elderly_crossing.jpg)
+4. ![](images/BIKES_E_children_crossing.jpg)
 
 
 ###7432 - BIKEH6.21
 
 Which sign means there may be  elderly pedestrians likely to cross the road?
 
-1. {picture}
-2. {picture}
-3. {picture}
-4. {picture}
+1. ![correct](images/BIKES_E_elderly_crossing.jpg)
+2. ![](images/BIKES_E_zebra_approach.jpg)
+3. ![](images/BIKES_E_children_crossing.jpg)
+4. ![](images/BIKES_E_people_walking.jpg)
 
 
 ###7433 - BIKEH6.22
 
 If you see a person with a white stick, this means that the person is
 
-1.  Blind 
+1.  **Blind** 
 2.  Elderly 
 3.  Deaf 
 4.  Disabled 
@@ -134,7 +134,7 @@ If you see a person with a white stick, this means that the person is
 
 You are driving towards a pedestrian crossing. Waiting to cross is a person in a wheelchair. You should
 
-1.  Be prepared to stop and wait patiently 
+1.  **Be prepared to stop and wait patiently** 
 2.  Wave to the person to wait 
 3.  Wave to the person to cross 
 4.  Continue on your way 
@@ -145,7 +145,7 @@ You are driving towards a pedestrian crossing. Waiting to cross is a person in a
 What action should you take when elderly people are crossing the road?
 
 1.  Tap the horn in case they are hard of hearing 
-2.  Be patient and allow them to cross in their own time 
+2.  **Be patient and allow them to cross in their own time** 
 3.  Rev the engine to let them know that you are waiting 
 4.  Wave them across so they know that you have seen them 
 
@@ -154,7 +154,7 @@ What action should you take when elderly people are crossing the road?
 
 You should NEVER attempt to overtake a cyclist
 
-1.  Just before you turn left 
+1.  **Just before you turn left** 
 2.  On a dual carriageway 
 3.  On a one-way street 
 4.  Just before you turn right 
@@ -164,7 +164,7 @@ You should NEVER attempt to overtake a cyclist
 
 If you are driving behind a cyclist and you wish to turn left. You should
 
-1.  Hold back until the cyclist has passed the junction 
+1.  **Hold back until the cyclist has passed the junction** 
 2.  Go around the cyclist 
 3.  Pull alongside the cyclist 
 4.  Overtake the cyclist before the junction
@@ -177,7 +177,7 @@ You are coming up to a roundabout and a cyclist is signalling to turn right. Wha
 1.  Signal the cyclist to move across 
 2.  Give a horn warning 
 3.  Overtake on the right 
-4.  Give the cyclist plenty of room 
+4.  **Give the cyclist plenty of room** 
 
 
 ###7439 - BIKEH6.3
@@ -185,7 +185,7 @@ You are coming up to a roundabout and a cyclist is signalling to turn right. Wha
 You are driving along  a main road with multiple junctions. You should be alert for
 
 1.  You may lose balance due to the wind 
-2.  other road users emerging from junctions who may not see you 
+2.  **other road users emerging from junctions who may not see you** 
 3.  The road which other road users may be using is more slippery 
 4.  Other road users may be driving slower at junctions 
 
@@ -197,7 +197,7 @@ You are approaching a roundabout and see a cyclist signal right. Why is the cycl
 1.  The cyclist thinks The highway Code does not apply to bicycles 
 2.  The cyclist is going to turn left instead 
 3.  It is quicker route for cyclist 
-4.  The cyclist is slower and more vulnerable 
+4.  **The cyclist is slower and more vulnerable** 
 
 
 ###7442 - BIKEH6.32
@@ -207,7 +207,7 @@ When you are overtaking a cyclist on the road  you should leave as much room as 
 1.  The cyclist might have to make a right turn 
 2.  The cyclist might get off the bike 
 3.  The cyclist might change lanes 
-4.  The cyclist might swerve 
+4.  **The cyclist might swerve** 
 
 
 ###7443 - BIKEH6.38
@@ -215,7 +215,7 @@ When you are overtaking a cyclist on the road  you should leave as much room as 
 Where should you take particular care to look out for motorcyclists and cyclists?
 
 1.  On one-way streets 
-2.  At junctions 
+2.  **At junctions** 
 3.  At zebra crossings 
 4.  On dual carriageways 
 
@@ -224,7 +224,7 @@ Where should you take particular care to look out for motorcyclists and cyclists
 
 In daylight an approaching motorcyclist is using a dipped headlight. Why?
 
-1.  So that the rider can be seen more easily 
+1.  **So that the rider can be seen more easily** 
 2.  The rider is inviting you to proceed 
 3.  To improve the rider's vision 
 4.  To stop the battery overcharging 
@@ -237,14 +237,14 @@ Motorcyclists should wear bright clothing mainly because
 1.  The colours are popular 
 2.  It helps keep them cool in summer 
 3.  They must do so by law 
-4.  Other drivers can see them 
+4.  **Other drivers can see them** 
 
 
 ###7447 - BIKEH6.41
 
 Motorcyclists ride in day light with their headlights switched on because
 
-1.  They need to be seen 
+1.  **They need to be seen** 
 2.  There are pot holes in the road 
 3.  There is a speed camera ahead 
 4.  It is legal requirement
@@ -257,18 +257,18 @@ You are riding behind a moped or small motorcycle. You want to turn left just ah
 1.  Sound your horn as a warning and pull in front of the moped 
 2.  Pull alongside the moped and stay level until just before the junction 
 3.  Overtake the moped before the junction 
-4.  Stay behind until the moped has passed the junction 
+4.  **Stay behind until the moped has passed the junction** 
 
 
 ###7449 - BIKEH6.44
 
 At road junctions which of the following are most vulnerable?
 
-1.  Motorcyclists 
-2.  Cyclists 
+1.  **Motorcyclists** 
+2.  **Cyclists** 
 3.  Lorry drivers 
 4.  Car drivers 
-5.  Pedestrians 
+5.  **Pedestrians** 
 
 
 ###7450 - BIKEH6.45
@@ -278,7 +278,7 @@ When emerging from a side road into a queue of traffic which road users can be d
 1.  Cars 
 2.  Milk floats 
 3.  Tractors 
-4.  Motorcycles 
+4.  **Motorcycles** 
 
 
 ###7451 - BIKEH6.46
@@ -287,7 +287,7 @@ You want to turn right from a main road into a side road. Just before you turn y
 
 1.  Stop and set the mirror 
 2.  Select first gear 
-3.  Check for traffic overtaking on your right 
+3.  **Check for traffic overtaking on your right** 
 4.  Cancel your right-turn signal 
 
 
@@ -295,10 +295,10 @@ You want to turn right from a main road into a side road. Just before you turn y
 
 In long queue of traffic which of the following are the most hazardous situations that are expected  from motorcyclists?
 
-1.  They enter very close in front of cars 
+1.  **They enter very close in front of cars** 
 2.  They drive in one file 
-3.  They swerve through lanes 
-4.  They drive very close to cars 
+3.  **They swerve through lanes** 
+4.  **They drive very close to cars** 
 5.  They drive with their dipped beam 
 
 
@@ -309,7 +309,7 @@ You are riding and ahead of you there is a vehicle with a flashing amber beacon.
 1.  A school crossing patrol 
 2.  A doctor's car 
 3.  Broken down 
-4.  Slow moving 
+4.  **Slow moving** 
 
 
 ###7454 - BIKEH6.5
@@ -317,7 +317,7 @@ You are riding and ahead of you there is a vehicle with a flashing amber beacon.
 Motorcyclists are most vulnerable for a serious road accident when they
 
 1.  Use sight glasses or contact lenses 
-2.  Have recently passed their driving test 
+2.  **Have recently passed their driving test** 
 3.  Are carrying a passenger 
 4.  Have not carried out the theory test 
 
@@ -329,14 +329,14 @@ An injured motorcyclist is lying unconscious in the road. You should
 1.  Remove the leather jacket 
 2.  Move the person off the road 
 3.  Remove the safety helmet 
-4.  Seek medical assistance
+4.  **Seek medical assistance**
 
 
 ###7456 - BIKEH6.51
 
 You are riding in town. There is a bus at the bus stop on the other side of the road. Why should you be careful?
 
-1.  Pedestrians may come from behind the bus 
+1.  **Pedestrians may come from behind the bus** 
 2.  The bus may remain stationary 
 3.  The bus may move off suddenly 
 4.  The bus may have broken down 
@@ -346,7 +346,7 @@ You are riding in town. There is a bus at the bus stop on the other side of the 
 
 How should you overtake horse riders?
 
-1.  Drive slowly and leave plenty of room 
+1.  **Drive slowly and leave plenty of room** 
 2.  Use your horn just once to warn them 
 3.  Speed is not important but allow plenty of room 
 4.  Rev the engine to mark your presence 
@@ -357,7 +357,7 @@ How should you overtake horse riders?
 You notice horse riders ahead of you. What should you do FIRST?
 
 1.  Signal right 
-2.  Be prepared to slow down 
+2.  **Be prepared to slow down** 
 3.  Accelerate around them 
 4.  Pull out to the middle of the road 
 
@@ -366,7 +366,7 @@ You notice horse riders ahead of you. What should you do FIRST?
 
 A horse rider is in the left-hand lane approaching a roundabout. You are driving behind. You should expect the rider to
 
-1.  Go in any direction 
+1.  **Go in any direction** 
 2.  Go ahead 
 3.  Turn left 
 4.  Turn right 
@@ -376,7 +376,7 @@ A horse rider is in the left-hand lane approaching a roundabout. You are driving
 
 You see a group of horse riders as you approach a roundabout. They are right but keeping well to the left. You should
 
-1.  Stay well back 
+1.  **Stay well back** 
 2.  Cut in front of them 
 3.  Keep close of them 
 4.  Proceed as normal 
@@ -386,7 +386,7 @@ You see a group of horse riders as you approach a roundabout. They are right but
 
 What is the most common cause of road accidents?
 
-1.  Driver error 
+1.  **Driver error** 
 2.  Mechanical failure 
 3.  Road conditions 
 4.  Weather conditions 
@@ -396,7 +396,7 @@ What is the most common cause of road accidents?
 
 A learner driver started to emerge in front of you from the left at a road junction. You should
 
-1.  Prepare to slow and stop 
+1.  **Prepare to slow and stop** 
 2.  Let the driver emerge and then drive close behind 
 3.  Turn in the junction 
 4.  Stop suddenly and give a wave signal at the driver 
@@ -409,14 +409,14 @@ Which age group is most likely to be involved in road accidents?
 1.  46 to 55-year-old 
 2.  55-year-olds and over 
 3.  36 to 45-year-old 
-4.  18 to 25-year-old
+4.  **18 to 25-year-old**
 
 
 ###7466 - BIKEH6.61
 
 You are following a learner driver who stalls at a junction. What should you do?
 
-1.  Be patient as you expect them to make mistake 
+1.  **Be patient as you expect them to make mistake** 
 2.  Immediately steer around them and drive on 
 3.  Start to rev your engine if they take too long to restart 
 4.  Drive up close behind and flash your headlights 
@@ -426,7 +426,7 @@ You are following a learner driver who stalls at a junction. What should you do?
 
 The vehicle you are following is being driven by a learner driver. What should you do?
 
-1.  Keep calm and be patient 
+1.  **Keep calm and be patient** 
 2.  Drive up close behind 
 3.  Flash the high beam (BRIGHT) 
 4.  Sound the horn and overtake 
