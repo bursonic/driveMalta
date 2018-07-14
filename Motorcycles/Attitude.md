@@ -265,7 +265,7 @@ When you are overtaking a horse and rider you should
 You are approaching a zebra crossing. Pedestrians are waiting to cross. You should
 
 1.  Wave at them to cross the road 
-2.  Slow down and prepare to stop 
+2.  **Slow down and prepare to stop** 
 3.  Use your headlights to indicate they can cross 
 4.  Give way to elderly and children only 
 
@@ -276,7 +276,7 @@ When should you give signals?
 
 1.  Only in bad weather 
 2.  In traffic only 
-3.  To change course or direction 
+3.  **To change course or direction** 
 4.  To give you priority over other traffic 
 
 
@@ -287,7 +287,7 @@ You have stopped at a pedestrian (zebra) crossing to allow pedestrians to cross.
 1.  Signal to pedestrians to cross 
 2.  Rev your engine 
 3.  Edge your vehicle forward 
-4.  Wait until they have crossed 
+4.  **Wait until they have crossed** 
 
 
 ###7331 - BIKEH2.6
@@ -297,7 +297,7 @@ You should never wave or urge people across at pedestrian crossing because
 1.  They may not be ready to cross 
 2.  It is safer for you to carry on 
 3.  They may not be looking 
-4.  There may be another vehicle coming 
+4.  **There may be another vehicle coming** 
 
 
 ###7333 - BIKEH2.8
@@ -307,7 +307,7 @@ You stopped for pedestrians to cross at a zebra crossing. They did not start to 
 1.  Wave them to cross 
 2.  Drive on 
 3.  Sound your horn 
-4.  Be patient and wait 
+4.  **Be patient and wait** 
 
 
 ###7334 - BIKEH2.9
@@ -315,7 +315,7 @@ You stopped for pedestrians to cross at a zebra crossing. They did not start to 
 You may use the 'Two-Second Rule'
 
 1.  When emerging on wet roads 
-2.  To keep a safe gap from the vehicle in front 
+2.  **To keep a safe gap from the vehicle in front** 
 3.  Before using the 'Mirror - Signal - manoeuvre' routine 
 4.  Before restarting the engine after it has stalled 
 

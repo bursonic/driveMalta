@@ -5,14 +5,14 @@ You should not drive closely behind a truck
 1.  To avoid exhaust smoke 
 2.  To avoid air resistance 
 3.  As you might not be visible to other road users 
-4.  As you will have a poor vision of what is coming ahead 
+4.  **As you will have a poor vision of what is coming ahead** 
 
 
 ###7421 - BIKEH6.10
 
 You want to turn from a junction but your view is partly restricted by parked vehicles. What should you do?
 
-1.  Stop then move slowly forward until you have a clear view 
+1.  **Stop then move slowly forward until you have a clear view** 
 2.  Move out quickly but be prepared to stop 
 3.  Sound your horn and pull out
 
@@ -23,7 +23,7 @@ What should a rider do at a pelican crossing when the red and amber lights are o
 
 1.  Wait for the red-and-amber light, before proceeding 
 2.  Give way to any pedestrians on the crossing 
-3.  Always wait for the green light before proceeding 
+3.  **Always wait for the green light before proceeding** 
 4.  Signal the pedestrian to cross 
 
 
@@ -32,7 +32,7 @@ What should a rider do at a pelican crossing when the red and amber lights are o
 You have stopped at a pelican crossing. A disabled person is crossing slowly in front of you. The lights have now changed to green. You should
 
 1.  Drive in front of the person 
-2.  Allow the person to cross all the way 
+2.  **Allow the person to cross all the way** 
 3.  Edge forward slowly 
 4.  Sound your horn 
 5.  Drive behind the person 
@@ -42,7 +42,7 @@ You have stopped at a pelican crossing. A disabled person is crossing slowly in 
 
 As you approach a pelican crossing the lights change to green, but elderly people are still halfway across. You should
 
-1.  Wait because they will take longer to cross 
+1.  **Wait because they will take longer to cross** 
 2.  Flash your lights 
 3.  Rev your engine to make them hurry 
 4.  Wave them to cross as quickly as they can 
@@ -52,17 +52,19 @@ As you approach a pelican crossing the lights change to green, but elderly peopl
 
 Look at this picture. What is the danger you should be most aware of?
 
+![](images/BIKES_E_child-on-road.jpg)
+
 1.  The car on the left may move off 
 2.  The driver of the ice cream van may get out 
 3.  The ice cream van may move off 
-4.  The child may run out into the road 
+4.  **The child may run out into the road** 
 
 
 ###7427 - BIKEH6.17
 
 You are driving past parked cars. You notice a wheel of a bicycle sticking out between them. What should you do?
 
-1.  Slow down and be prepared to stop 
+1.  **Slow down and be prepared to stop** 
 2.  Brake sharply and flash your headlights 
 3.  Slow down and wave the cyclist across 
 4.  Accelerate past quickly and sound your horn 
@@ -73,7 +75,7 @@ You are driving past parked cars. You notice a wheel of a bicycle sticking out b
 You are driving and you notice a ball bouncing out into the road. What should you do?
 
 1.  Stop and wave the children to fetch their ball 
-2.  Slow down and be prepared to stop 
+2.  **Slow down and be prepared to stop** 
 3.  Continue driving at the same speed and flash your headlights 
 4.  Continue driving at the same speed and sound your horn 
 
@@ -82,7 +84,7 @@ You are driving and you notice a ball bouncing out into the road. What should yo
 
 If you are following an elderly driver you should
 
-1.  Be aware that the driver's reactions may not be as fast as yours 
+1.  **Be aware that the driver's reactions may not be as fast as yours** 
 2.  Stay close behind 
 3.  Flash your lights 
 4.  Expect the driver to drive badly
