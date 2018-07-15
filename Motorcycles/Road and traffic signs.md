@@ -288,7 +288,7 @@ What does this sign mean?
 
 1.  No footpath ahead 
 2.  Pedestrians only ahead 
-3.  Pedestrian crossing ahead 
+3.  **Pedestrian crossing ahead** 
 4.  School crossing ahead 
 
 
